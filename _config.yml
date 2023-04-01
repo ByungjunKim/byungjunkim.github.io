@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Byungjun Kim(김병준)"
+title                    : "Digital Humanities Researcher"
 title_separator          : "-"
 name                     : &name "Byungjun Kim(김병준)"
 description              : &description "personal description"
