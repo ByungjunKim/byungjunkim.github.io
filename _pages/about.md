@@ -21,7 +21,7 @@ Academic Positions
 
 Education
 ======
-Ph.D. 2022. Data science, Sungkyunkwan University.  
+<i class="fas fa-fw fa-graduation-cap"></i> Ph.D. 2022. Data science, Sungkyunkwan University.  
 M.S. 2017. Culture technology, KAIST.  
 B.A. 2015. Korean language and literature, Sungkyunkwan University.
 
