@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Research Interest Keywords
 ======
-Digital Humanities, Computational Social Sciences, Data Science, Natural Language Processing, Korean Studies, Bibilometrics
+Digital Humanities, Computational Social Sciences, Data Science, Natural Language Processing, Korean Studies, Bibliometrics
 
 Academic Positions
 ======
@@ -20,3 +20,5 @@ Academic Positions
 Education
 ======
 
+Education
+======
