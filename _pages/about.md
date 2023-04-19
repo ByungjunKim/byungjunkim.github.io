@@ -17,13 +17,13 @@ Digital Humanities, Computational Social Sciences, Data Science, Natural Languag
 Academic Positions
 ======
 2023 -  Research Assistant Professor, Center for Digital Humanities and Computational Social Sciences, KAIST.  
-2021 ~ 2022 Research associate, Center for Digital Humanities and Computational Social Sciences, KAIST.
+2021 ~ 2022 Research Associate, Center for Digital Humanities and Computational Social Sciences, KAIST.
 
 Education
 ======
-<i class="fas fa-fw fa-graduation-cap"></i> Ph.D. 2022. Data science, Sungkyunkwan University.  
-M.S. 2017. Culture technology, KAIST.  
-B.A. 2015. Korean language and literature, Sungkyunkwan University.
+<i class="fas fa-fw fa-graduation-cap"></i> Ph.D. 2022. Data Science, Sungkyunkwan University.  
+<i class="fas fa-fw fa-graduation-cap"></i> M.S. 2017. Culture Technology, KAIST.  
+<i class="fas fa-fw fa-graduation-cap"></i> B.A. 2015. Korean Language and Literature, Sungkyunkwan University.
 
 Skills and Techniques
 ======
