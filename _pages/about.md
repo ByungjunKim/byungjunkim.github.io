@@ -22,3 +22,15 @@ Education
 
 Skills and Techniques
 ======
+1. Python
+   * Machine/Deep learning
+   * NLP
+   * Data visualization
+2. R
+   * Statistical analysis
+   * Data visualization
+3. Web Scraping
+4. Social Network Analysis (SNA)
+   * Gephi, networkx, igraph, etc.
+5. Bibliometrics
+   * CiteSpace, Vosviewer, etc.
