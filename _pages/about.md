@@ -20,5 +20,5 @@ Academic Positions
 Education
 ======
 
-Education
+Skills and Techniques
 ======
