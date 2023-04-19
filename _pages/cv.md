@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[See it here :)](http://byungjunkim.github.io/files/김병준_CV.pdf)
+[See it here :)](https://drive.google.com/uc?export=download&id=1nB_X4S8E82TGnZzDENglQZXNliWQzFBq)
