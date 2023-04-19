@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant professor at the [Center for Digital Humanities and Computational Social Sciences](https://dhcss.kaist.ac.kr/), Korea Advanced Institute of Science and Technology ([KAIST](https://www.kaist.ac.kr/en/)).
+I am a research assistant professor at the <a href="https://dhcss.kaist.ac.kr/" target="_blank">Center for Digital Humanities and Computational Social Sciences</a>, Korea Advanced Institute of Science and Technology (<a href="https://www.kaist.ac.kr/en/" target="_blank">KAIST</a>).
 
 Research Interest Keywords
 ======
