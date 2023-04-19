@@ -17,7 +17,7 @@ Digital Humanities, Computational Social Sciences, Data Science, Natural Languag
 Academic Positions
 ======
 2023 -  Research Assistant Professor, Center for Digital Humanities and Computational Social Sciences, KAIST.  
-2021 ~ 2022 Postdoctoral fellow, Center for Digital Humanities and Computational Social Sciences, KAIST.
+2021 ~ 2022 Research associate, Center for Digital Humanities and Computational Social Sciences, KAIST.
 
 Education
 ======
