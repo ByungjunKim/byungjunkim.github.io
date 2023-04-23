@@ -17,13 +17,26 @@ Digital Humanities, Computational Social Sciences, Data Science, Natural Languag
 Academic Positions
 ======
 2023 -  Research Assistant Professor, Center for Digital Humanities and Computational Social Sciences, KAIST.  
-2021 ~ 2022 Research Associate, Center for Digital Humanities and Computational Social Sciences, KAIST.
+2021 ~ 2022 Research Associate, Center for Digital Humanities and Computational Social Sciences, KAIST.  
+2020 ~ 2021 Part-time Lecturer, College of Liberal Arts, Sungkyunkwan University.
 
 Education
 ======
 <i class="fas fa-fw fa-graduation-cap"></i> Ph.D. 2022. Data Science, Sungkyunkwan University.  
 <i class="fas fa-fw fa-graduation-cap"></i> M.S. 2017. Culture Technology, KAIST.  
 <i class="fas fa-fw fa-graduation-cap"></i> B.A. 2015. Korean Language and Literature, Sungkyunkwan University.
+
+Selcted Publications
+======
+Kyeo Re Lee, Jang Hyun Kim, Jayeon Jang, Jeewoo Yoon, Dongyan Nan, Yonghwan Kim, **Byungjun Kim**, "News big data analysis of international start-up innovation discourses through topic modelling and network analysis: comparing East Asia and North America", ASIAN JOURNAL OF TECHNOLOGY INNOVATION, (2022), https://doi.org/10.1080/19761597.2022.2134154
+
+**Byungjun Kim**, Minjoo Yoo, Keon Chul Park, Kyeo Re Lee, Jang Hyun Kim, "A value of civic voices for smart city: A big data analysis of civic queries posed by Seoul citizens", CITIES, (2021), https://doi.org/10.1016/j.cities.2020.102941
+
+최진석, **김병준**, 허예슬, 최주찬, 황호덕, "김윤식과 우리 시대, 인용의 인구사회학적 시좌 : 현대문학연구자의 성별 및 세대 별 김윤식 저술 인용 양상 연구(2004-2019)", 국제어문, (2023), https://doi.org/10.31147/IALL.96.12
+
+**김병준**, 천정환, "박사학위 논문(2000∼2019) 데이터 분석을 통해 본 한국 현대문학 연구의 변화와 전망", 상허학보, (2020), https://doi.org/10.22936/sh.60..202010.012
+
+**김병준**, 전봉관, 이원재, "비평 언어의 변동: 문예지 비평 텍스트에 나타난 개념단어의 변동 양상, 1995~2015", 현대문학의 연구, (2017), https://doi.org/10.35419/kmlit.2017..61.002
 
 Skills and Techniques
 ======
