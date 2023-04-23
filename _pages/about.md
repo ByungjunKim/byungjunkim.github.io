@@ -28,15 +28,15 @@ Education
 
 Selcted Publications
 ======
-<a href="https://doi.org/10.1080/19761597.2022.2134154" target="_blank">Kyeo Re Lee, Jang Hyun Kim, Jayeon Jang, Jeewoo Yoon, Dongyan Nan, Yonghwan Kim, **Byungjun Kim**, "News big data analysis of international start-up innovation discourses through topic modelling and network analysis: comparing East Asia and North America", ASIAN JOURNAL OF TECHNOLOGY INNOVATION, (2022)</a>
+Kyeo Re Lee, Jang Hyun Kim, Jayeon Jang, Jeewoo Yoon, Dongyan Nan, Yonghwan Kim, **Byungjun Kim**, "News big data analysis of international start-up innovation discourses through topic modelling and network analysis: comparing East Asia and North America", ASIAN JOURNAL OF TECHNOLOGY INNOVATION, (2022) <a href="https://doi.org/10.1080/19761597.2022.2134154" target="_blank">Link</a>
 
-<a href="https://doi.org/10.1016/j.cities.2020.102941" target="_blank">**Byungjun Kim**, Minjoo Yoo, Keon Chul Park, Kyeo Re Lee, Jang Hyun Kim, "A value of civic voices for smart city: A big data analysis of civic queries posed by Seoul citizens", CITIES, (2021)</a>
+**Byungjun Kim**, Minjoo Yoo, Keon Chul Park, Kyeo Re Lee, Jang Hyun Kim, "A value of civic voices for smart city: A big data analysis of civic queries posed by Seoul citizens", CITIES, (2021) <a href="https://doi.org/10.1016/j.cities.2020.102941" target="_blank">Link</a>
 
-<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002949387" target="_blank">최진석, **김병준**, 허예슬, 최주찬, 황호덕, "김윤식과 우리 시대, 인용의 인구사회학적 시좌 : 현대문학연구자의 성별 및 세대 별 김윤식 저술 인용 양상 연구(2004-2019)", 국제어문, (2023)</a>
+최진석, **김병준**, 허예슬, 최주찬, 황호덕, "김윤식과 우리 시대, 인용의 인구사회학적 시좌 : 현대문학연구자의 성별 및 세대 별 김윤식 저술 인용 양상 연구(2004-2019)", 국제어문, (2023) <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002949387" target="_blank">Link</a>
 
-<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002647202" target="_blank">**김병준**, 천정환, "박사학위 논문(2000∼2019) 데이터 분석을 통해 본 한국 현대문학 연구의 변화와 전망", 상허학보, (2020)</a>
+**김병준**, 천정환, "박사학위 논문(2000∼2019) 데이터 분석을 통해 본 한국 현대문학 연구의 변화와 전망", 상허학보, (2020) <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002647202" target="_blank">Link</a>
 
-<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002201115" target="_blank">**김병준**, 전봉관, 이원재, "비평 언어의 변동: 문예지 비평 텍스트에 나타난 개념단어의 변동 양상, 1995~2015", 현대문학의 연구, (2017)</a>
+**김병준**, 전봉관, 이원재, "비평 언어의 변동: 문예지 비평 텍스트에 나타난 개념단어의 변동 양상, 1995~2015", 현대문학의 연구, (2017) <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002201115" target="_blank">Link</a>
 
 Skills and Techniques
 ======
