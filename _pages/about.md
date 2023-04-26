@@ -26,13 +26,15 @@ Education
 <i class="fas fa-fw fa-graduation-cap"></i> M.S. 2017. Culture Technology, KAIST.  
 <i class="fas fa-fw fa-graduation-cap"></i> B.A. 2015. Korean Language and Literature, Sungkyunkwan University.
 
-Selcted Publications
+Selected Publications
 ======
 Kyeo Re Lee, Jang Hyun Kim, Jayeon Jang, Jeewoo Yoon, Dongyan Nan, Yonghwan Kim, **Byungjun Kim**, "News big data analysis of international start-up innovation discourses through topic modelling and network analysis: comparing East Asia and North America", ASIAN JOURNAL OF TECHNOLOGY INNOVATION, (2022) <a href="https://doi.org/10.1080/19761597.2022.2134154" target="_blank">Link</a>
 
 **Byungjun Kim**, Minjoo Yoo, Keon Chul Park, Kyeo Re Lee, Jang Hyun Kim, "A value of civic voices for smart city: A big data analysis of civic queries posed by Seoul citizens", CITIES, (2021) <a href="https://doi.org/10.1016/j.cities.2020.102941" target="_blank">Link</a>
 
 최진석, **김병준**, 허예슬, 최주찬, 황호덕, "김윤식과 우리 시대, 인용의 인구사회학적 시좌 : 현대문학연구자의 성별 및 세대 별 김윤식 저술 인용 양상 연구(2004-2019)", 국제어문, (2023) <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002949387" target="_blank">Link</a>
+
+류인태, 곽지은, 권기성, 김바로, **김병준**, 김지선, 박진호, 양승목, 이민철, 이재연, 장문석, 지영원, 한희연, "디지털로 읽고 데이터로 쓰다:디지털 한국어문학의 모색", 박문사, (2023) <a href="https://kadh.org/%EC%84%9C%EC%A0%81-%EB%94%94%EC%A7%80%ED%84%B8%EB%A1%9C-%EC%9D%BD%EA%B3%A0-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%93%B0%EB%8B%A4-%EB%94%94%EC%A7%80%ED%84%B8-%ED%95%9C%EA%B5%AD%EC%96%B4/" target="_blank">Link</a>
 
 **김병준**, 천정환, "박사학위 논문(2000∼2019) 데이터 분석을 통해 본 한국 현대문학 연구의 변화와 전망", 상허학보, (2020) <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002647202" target="_blank">Link</a>
 
