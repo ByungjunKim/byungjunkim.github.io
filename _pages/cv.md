@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<a href="http://byungjunkim.github.io/files/김병준_CV.pdf" target="_blank"> See it here :) </a>
+<a href="http://byungjunkim.github.io/files/ByungjunKim_CV.pdf" target="_blank"> See it here :) </a>
