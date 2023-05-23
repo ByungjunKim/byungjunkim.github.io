@@ -28,6 +28,8 @@ Education
 
 Selected Publications
 ======
+Yerin Kim, **Byungjun Kim**, Minhyung Park, Woomin Nam, Jang Hyun Kim, "A Soft Power Challenge, or an Opportunity? A Big Data analysis on Chinese Soft Power During COVID-19 Pandemic", FOREIGN POLICY ANALYSIS, (2023) <a href=" https://doi.org/10.1093/fpa/orad011" target="_blank">Link</a>
+
 Kyeo Re Lee, Jang Hyun Kim, Jayeon Jang, Jeewoo Yoon, Dongyan Nan, Yonghwan Kim, **Byungjun Kim**, "News big data analysis of international start-up innovation discourses through topic modelling and network analysis: comparing East Asia and North America", ASIAN JOURNAL OF TECHNOLOGY INNOVATION, (2022) <a href="https://doi.org/10.1080/19761597.2022.2134154" target="_blank">Link</a>
 
 **Byungjun Kim**, Minjoo Yoo, Keon Chul Park, Kyeo Re Lee, Jang Hyun Kim, "A value of civic voices for smart city: A big data analysis of civic queries posed by Seoul citizens", CITIES, (2021) <a href="https://doi.org/10.1016/j.cities.2020.102941" target="_blank">Link</a>
