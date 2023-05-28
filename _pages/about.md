@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant professor at the <a href="https://dhcss.kaist.ac.kr/" target="_blank">Center for Digital Humanities and Computational Social Sciences</a>, Korea Advanced Institute of Science and Technology (<a href="https://www.kaist.ac.kr/en/" target="_blank">KAIST</a>). I am interested in data science-based research in the humanities and social sciences. Please refer to my [CV page](https://byungjunkim.github.io/cv) for detailed research history.
+I am a research assistant professor at the <a href="https://dhcss.kaist.ac.kr/" target="_blank">Center for Digital Humanities and Computational Social Sciences</a>, Korea Advanced Institute of Science and Technology (<a href="https://www.kaist.ac.kr/en/" target="_blank">KAIST</a>). I am interested in data science-based research in the humanities and social sciences. Please refer to my <a href="http://byungjunkim.github.io/files/ByungjunKim_CV.pdf" target="_blank">CV</a> for detailed research history.
 
 Research Interest Keywords
 ======
