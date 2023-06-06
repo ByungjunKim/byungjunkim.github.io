@@ -42,6 +42,14 @@ Kyeo Re Lee, Jang Hyun Kim, Jayeon Jang, Jeewoo Yoon, Dongyan Nan, Yonghwan Kim,
 
 **김병준**, 전봉관, 이원재, "비평 언어의 변동: 문예지 비평 텍스트에 나타난 개념단어의 변동 양상, 1995~2015", 현대문학의 연구, (2017) <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002201115" target="_blank">Link</a>
 
+Featured Grants & Projects
+======
+(연구책임자) "한국어 인공지능 고도화를 위한 인문사회과학 학술 말뭉치와 언어 모델 구축", 창의·도전연구 기반지원, 한국연구재단, 총 연구비 1.4억원, 2023.06 ~ 2025.05 <a href="https://www.nrf.re.kr/biz/info/info/view?menu_no=378&biz_no=415" target="_blank">Link</a>
+
+(공동연구원) "디지탈 인문사회 교육 및 연구 상호 피드백 모델", 인문사회-디지털(SW:AI)융합 연구소 지원, 한국과학창의재단, 총 연구비 4억원, 2022.05 ~ 2023.12 <a href="https://www.kofac.re.kr/brd/board/386/L/menu/270?brdType=R&thisPage=1&bbIdx=37304" target="_blank">Link</a>
+
+(공동연구원) "데이터 기반 스토리 공학 : 소셜 미디어 데이터를 활용한 글로벌 OTT 시청자 반응 분석 시스템 개발", 2022년도 Post-AI 연구사업 2차 공모, KAIST Post-AI 연구소, 총 연구비 2천만원, 2022.09 ~ 11
+
 Skills and Techniques
 ======
 1. Python
