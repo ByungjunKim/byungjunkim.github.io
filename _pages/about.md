@@ -22,8 +22,8 @@ Academic Positions
 
 Education
 ======
-<i class="fas fa-fw fa-graduation-cap"></i> Ph.D. 2022. Data Science, Sungkyunkwan University.  
-<i class="fas fa-fw fa-graduation-cap"></i> M.S. 2017. Culture Technology, KAIST.  
+<i class="fas fa-fw fa-graduation-cap"></i> Ph.D. 2022. Data Science, <a href="https://sites.google.com/g.skku.edu/dssal" target="_blank">DSSAL</a>, Sungkyunkwan University.  
+<i class="fas fa-fw fa-graduation-cap"></i> M.S. 2017. Culture Technology, <a href="https://sociology.kaist.ac.kr/" target="_blank">SCL</a>, KAIST.  
 <i class="fas fa-fw fa-graduation-cap"></i> B.A. 2015. Korean Language and Literature, Sungkyunkwan University.
 
 Selected Publications
