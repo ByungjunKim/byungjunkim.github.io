@@ -50,7 +50,7 @@ Kyeo Re Lee, Jang Hyun Kim, Jayeon Jang, Jeewoo Yoon, Dongyan Nan, Yonghwan Kim,
 
 Featured Grants & Projects
 ======
-(**연구책임자**) "한국어 인공지능 고도화를 위한 인문사회과학 학술 말뭉치와 언어 모델 구축", 창의·도전연구 기반지원, 한국연구재단, 총 연구비 1.4억원, 2023.06 ~ 2025.05 <a href="https://www.nrf.re.kr/biz/info/info/view?menu_no=378&biz_no=415" target="_blank">Link</a>
+(**연구책임자**) "한국어 인공지능 고도화를 위한 인문사회과학 학술 말뭉치와 언어 모델 구축(Building an academic corpus and language model in the humanities and social sciences to advance Korean AI)", 창의·도전연구 기반지원, 한국연구재단, 총 연구비 1.4억원, 2023.06 ~ 2025.05 <a href="https://www.nrf.re.kr/biz/info/info/view?menu_no=378&biz_no=415" target="_blank">Link</a>
 
 (공동연구원) "디지탈 인문사회 교육 및 연구 상호 피드백 모델", 인문사회-디지털(SW:AI)융합 연구소 지원, 한국과학창의재단, 총 연구비 4억원, 2022.05 ~ 2023.12 <a href="https://www.kofac.re.kr/brd/board/386/L/menu/270?brdType=R&thisPage=1&bbIdx=37304" target="_blank">Link</a>
 
