@@ -2,7 +2,7 @@
 title: "The Influence of Writer-Critic relationships and Critic’s Structural Positions on the Sales Growth in Book Market: 2010-2015"
 collection: publications
 permalink: /publication/2016-04-30-paper-title-number-2
-# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: "We statistically analyzed the influence of critics on the book’s sales using longitudinal data of book sales, bibliographies of the three major publishers, and the socio-demography of writers and critics."
 date: 2016-04-30
 venue: 'The Journal of Modern Korean Literature'
 # paperurl: 'http://byungjunkim.github.io/files/paper2.pdf'

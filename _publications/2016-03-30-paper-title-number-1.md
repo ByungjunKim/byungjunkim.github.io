@@ -2,7 +2,7 @@
 title: "Social Geography of Novelists Mediated by Literature Magazines in Korea: 1994~2014"
 collection: publications
 permalink: /publication/2016-03-30-paper-title-number-1
-excerpt: "We suggest that the problem of 'literature power' can be better understood in terms of 'cronyism'. The non-literary bases of literature in Korea should be further recognized in the enterprise of Korean literature."
+excerpt: "Using descriptive and inferential network statistics, we found the evidence that there was a significant correlation between the literature activities and the social backgrounds of the novelists."
 date: 2016-03-30
 venue: 'The Journal of Korean Fiction Research'
 # paperurl: 'http://byungjunkim.github.io/files/paper1.pdf'
