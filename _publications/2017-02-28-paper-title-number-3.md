@@ -6,7 +6,7 @@ permalink: /publication/2017-02-28-paper-title-number-3
 date: 2017-02-28
 venue: 'Journal of Korean Modern Literature'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
-citation: 'Wonjae Lee, Byungjun Kim and Bong Gwan Jun. (2016). &quot;The Shifting Aspects of Concept Words Shown in Criticism in Literature Magazines, 1995～2015.&quot; <i>Journal of Korean Modern Literature</i>. 48.'
+# citation: 'Wonjae Lee, Byungjun Kim and Bong Gwan Jun. (2016). &quot;The Shifting Aspects of Concept Words Shown in Criticism in Literature Magazines, 1995～2015.&quot; <i>Journal of Korean Modern Literature</i>. 48.'
 ---
 [Download paper here](http://byungjunkim.github.io/files/paper3.pdf)
 
