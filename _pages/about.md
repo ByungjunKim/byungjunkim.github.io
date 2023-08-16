@@ -42,7 +42,7 @@ Kyeo Re Lee, Jang Hyun Kim, Jayeon Jang, Jeewoo Yoon, Dongyan Nan, Yonghwan Kim,
 
 최진석, **김병준**, 허예슬, 최주찬, 황호덕, "김윤식과 우리 시대, 인용의 인구사회학적 시좌 : 현대문학연구자의 성별 및 세대 별 김윤식 저술 인용 양상 연구(2004-2019) (Kim Yunsik and Our Epoch, A Demographic Viewpoint of Citation - Korean Modern Literature Researchers' Citation Patterns of Kim Yunsik's Writings by Gender and Generation, 2004-2019 -)", *국제어문*, (2023) <a href="https://doi.org/10.31147/IALL.96.12" target="_blank">Link</a>
 
-류인태, 곽지은, 권기성, 김바로, **김병준**, 김지선, 박진호, 양승목, 이민철, 이재연, 장문석, 지영원, 한희연, "디지털로 읽고 데이터로 쓰다:디지털 한국어문학의 모색", *박문사*, (2023) <a href="http://www.riss.kr/link?id=M16738481" target="_blank">Link</a>
+류인태, 곽지은, 권기성, 김바로, **김병준**, 김지선, 박진호, 양승목, 이민철, 이재연, 장문석, 지영원, 한희연, "디지털로 읽고 데이터로 쓰다:디지털 한국어문학의 모색 (Reading Digitally and Writing with Data: Exploring Digital Korean Language and Literature)", *박문사*, (2023) <a href="http://www.riss.kr/link?id=M16738481" target="_blank">Link</a>
 
 **김병준**, 천정환, "박사학위 논문(2000∼2019) 데이터 분석을 통해 본 한국 현대문학 연구의 변화와 전망(The Changes and Prospects of Studies on Modern Korean Literature Data Analysis of Doctoral Dissertations from 2000 throughout 2019)", *상허학보*, (2020) <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002647202" target="_blank">Link</a>
 
