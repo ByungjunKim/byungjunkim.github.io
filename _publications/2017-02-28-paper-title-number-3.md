@@ -8,6 +8,9 @@ venue: 'Journal of Korean Modern Literature'
 citation: 'Wonjae Lee, Byungjun Kim and Bong Gwan Jun. (2016). &quot;The Shifting Aspects of Concept Words Shown in Criticism in Literature Magazines, 1995～2015.&quot; <i>Journal of Korean Modern Literature</i>. 48.'
 ---
 
+
+[Download paper here](http://byungjunkim.github.io/files/paper3.pdf)
+
 ## Abstract
 We statistically analyzed the influence of critics on the book’s sales using longitudinal data of book sales, bibliographies of the three major publishers, and the socio-demography of writers and critics. The social homogeneity between writer and critic, and the critic’s structural position turned out to increase the sales growth of the book. The results support the literatury power hypothesis that social relations are mobilized to serve commercial purposes. A theoretical mechanism of Korean literary power is suggested.
 
