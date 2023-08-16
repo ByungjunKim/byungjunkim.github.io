@@ -2,7 +2,7 @@
 title: "The Shifting Aspects of Concept Words Shown in Criticism in Literature Magazines, 1995～2015"
 collection: publications
 permalink: /publication/2017-02-28-paper-title-number-3
-excerpt: "This study analyzes the shifting aspects of critical language according to 3,057 criticism texts in three literature magazines (Ch"angjakkwapip’yong, Munhaktongne, and Munhakkwasahoe) from 1995 to 2015"
+excerpt: "This study analyzes the shifting aspects of critical language according to 3,057 criticism texts in three literature magazines (Ch"angjakkwapip’yong, Munhaktongne, and Munhakkwasahoe) from 1995 to 2015."
 date: 2017-02-28
 venue: 'Journal of Korean Modern Literature'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
