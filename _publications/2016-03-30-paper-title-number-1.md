@@ -6,7 +6,7 @@ permalink: /publication/2016-03-30-paper-title-number-1
 date: 2016-03-30
 venue: 'The Journal of Korean Fiction Research'
 # paperurl: 'http://byungjunkim.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Your Name, You. (2016). &quot;Social Geography of Novelists Mediated by Literature Magazines in Korea: 1994~2014&quot; <i>The Journal of Korean Fiction Research</i>. 61.'
 ---
 We collected and digitized the whole bibliographic information of the three quarterly literature magazines (Ch'angjakkwapip’yong, Munhaktongne, and Munhakkwasahoe) issued from 1994 to 2014. 11,037 articles with authors' name were classified into poem, novel, critique, thesis, column, and interview. 1,565 Korean novelitss were identified as either the author of an article or the subject of a critique. We also collected the demographic information of the novelists, which includes age, gender, debut year, alma mater (college and graduate school), and the majors in the schools. Using descriptive and inferential network statistics, we found the evidence that there was a significant correlation between the literature activities and the social backgrounds of the novelists. On the basis of this finding, we suggest that the problem of 'literature power' can be better understood in terms of 'cronyism'. The non-literary bases of literature in Korea should be further recognized in the enterprise of Korean literature.
 
