@@ -5,12 +5,10 @@ permalink: /publication/2016-04-30-paper-title-number-2
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2016-04-30
 venue: 'The Journal of Modern Korean Literature'
-# paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+# paperurl: 'http://byungjunkim.github.io/files/paper2.pdf'
 citation: 'Bong Gwan Jun, Byungjun Kim and Wonjae Lee. (2016). &quot;The Influence of Writer-Critic relationships and Critic’s Structural Positions on the Sales Growth in Book Market: 2010-2015.&quot; <i>The Journal of Modern Korean Literature</i>. 48.'
 ---
-
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://byungjunkim.github.io/files/paper2.pdf)
 
 ## Abstract
 We statistically analyzed the influence of critics on the book’s sales using longitudinal data of book sales, bibliographies of the three major publishers, and the socio-demography of writers and critics. The social homogeneity between writer and critic, and the critic’s structural position turned out to increase the sales growth of the book. The results support the literatury power hypothesis that social relations are mobilized to serve commercial purposes. A theoretical mechanism of Korean literary power is suggested.
