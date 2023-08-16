@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-03-30-paper-title-number-1
 excerpt: "Using descriptive and inferential network statistics, we found the evidence that there was a significant correlation between the literature activities and the social backgrounds of the novelists."
 date: 2016-03-30
-venue: 'The Journal of Korean Fiction Research'
+venue: [The Journal of Korean Fiction Research](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002201115)
 # paperurl: 'http://byungjunkim.github.io/files/paper1.pdf'
 # citation: 'Bong Gwan Jun, Byungjun Kim and Wonjae Lee. (2016). &quot;Social Geography of Novelists Mediated by Literature Magazines in Korea: 1994~2014.&quot; <i>The Journal of Korean Fiction Research</i>. 61.'
 ---
