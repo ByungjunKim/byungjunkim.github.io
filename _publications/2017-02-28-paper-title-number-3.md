@@ -6,7 +6,7 @@ excerpt: "This study analyzes the shifting aspects of critical language accordin
 date: 2017-02-28
 venue: 'Journal of Korean Modern Literature'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
-# citation: 'Wonjae Lee, Byungjun Kim and Bong Gwan Jun. (2016). &quot;The Shifting Aspects of Concept Words Shown in Criticism in Literature Magazines, 1995~2015.&quot; <i>Journal of Korean Modern Literature</i>. 48.'
+citation: 'Wonjae Lee, Byungjun Kim and Bong Gwan Jun. (2016). &quot;The Shifting Aspects of Concept Words Shown in Criticism in Literature Magazines, 1995~2015.&quot; <i>Journal of Korean Modern Literature</i>. 48.'
 ---
 [Online link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002201115)  
 [Download paper here](http://byungjunkim.github.io/files/paper3.pdf)
