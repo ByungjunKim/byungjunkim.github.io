@@ -1,15 +1,18 @@
 ---
-title: "Paper Title Number 3"
+title: "The Shifting Aspects of Concept Words Shown in Criticism in Literature Magazines, 1995～2015"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2017-02-28-paper-title-number-3
+# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2017-02-28
+venue: 'Journal of Korean Modern Literature'
+citation: 'Wonjae Lee, Byungjun Kim and Bong Gwan Jun. (2016). &quot;The Shifting Aspects of Concept Words Shown in Criticism in Literature Magazines, 1995～2015.&quot; <i>Journal of Korean Modern Literature</i>. 48.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+[Download paper here](http://byungjunkim.github.io/files/paper3.pdf)
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+## Abstract
+We statistically analyzed the influence of critics on the book’s sales using longitudinal data of book sales, bibliographies of the three major publishers, and the socio-demography of writers and critics. The social homogeneity between writer and critic, and the critic’s structural position turned out to increase the sales growth of the book. The results support the literatury power hypothesis that social relations are mobilized to serve commercial purposes. A theoretical mechanism of Korean literary power is suggested.
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+## In Korean
+작가-비평가 관계와 비평가의 구조적 위치가 소설 단행본 판매량 증감에 미치는 영향: 2010-2015
+
+우리는 1994년부터 2015년까지 3대 문예지 서지 정보와 작가, 비평가들의 사회‧인구학적 정보 그리고 2010-15년 사이 3대 출판사 소설 단행본 판매량 자료를 활용하여 비평이 소설 단행본 판매량에 미치는 영향력을 통계적으로 분석하였다. 분석 결과 작가와 비평가의 관계는 물론 비평가의 네트워크 위치가 소설 단행본 판매량에 영향을 끼쳤음을 확인하였다. 이 결과는 상업적 목적을 위해 평론 권력과 사회적 권력이 동원되고 있다는 문학 권력론의 가설을 경험적으로 지지한다. 이를 토대로 우리는 한국 문학 권력의 이론적 메커니즘을 제안한다.
