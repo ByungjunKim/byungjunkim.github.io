@@ -2,7 +2,7 @@
 title: "The Shifting Aspects of Concept Words Shown in Criticism in Literature Magazines, 1995～2015"
 collection: publications
 permalink: /publication/2017-02-28-paper-title-number-3
-excerpt: "This study analyzes the shifting aspects of critical language according to 3,057 criticism texts in three literature magazines (Ch"angjakkwapip’yong, Munhaktongne, and Munhakkwasahoe) from 1995 to 2015."
+excerpt: "This study analyzes the shifting aspects of critical language according to 3,057 criticism texts in three literature magazines (Changjakkwapipyong, Munhaktongne, and Munhakkwasahoe) from 1995 to 2015."
 date: 2017-02-28
 venue: 'Journal of Korean Modern Literature'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
@@ -11,7 +11,7 @@ venue: 'Journal of Korean Modern Literature'
 [Download paper here](http://byungjunkim.github.io/files/paper3.pdf)
 
 ## Abstract
-This study analyzes the shifting aspects of critical language according to 3,057 criticism texts in three literature magazines (Ch"angjakkwapip’yong, Munhaktongne, and Munhakkwasahoe) from 1995 to 2015. Except stopwords, concept words which includes ideological and rhetorical character are selected With TF-IDF weight, the top-major 500 concept words are extracted from criticism texts, which leads to execute analysis by literature magazines and time. The aspects of concept words in each magazine change around social transition such as presidential election. Moreover, aesthetic and ideological point of view in each magazine is found again through concept words. Finally, after analyzing social geography meditated by major concept words, social status of critic affects uniqueness of criticism texts.
+This study analyzes the shifting aspects of critical language according to 3,057 criticism texts in three literature magazines (Changjakkwapipyong, Munhaktongne, and Munhakkwasahoe) from 1995 to 2015. Except stopwords, concept words which includes ideological and rhetorical character are selected With TF-IDF weight, the top-major 500 concept words are extracted from criticism texts, which leads to execute analysis by literature magazines and time. The aspects of concept words in each magazine change around social transition such as presidential election. Moreover, aesthetic and ideological point of view in each magazine is found again through concept words. Finally, after analyzing social geography meditated by major concept words, social status of critic affects uniqueness of criticism texts.
 
 ## In Korean
 비평 언어의 변동: 문예지 비평 텍스트에 나타난 개념단어의 변동 양상, 1995~2015
