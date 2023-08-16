@@ -8,6 +8,7 @@ venue: 'Journal of Korean Modern Literature'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
 # citation: 'Wonjae Lee, Byungjun Kim and Bong Gwan Jun. (2016). &quot;The Shifting Aspects of Concept Words Shown in Criticism in Literature Magazines, 1995～2015.&quot; <i>Journal of Korean Modern Literature</i>. 48.'
 ---
+[Online link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002201115)  
 [Download paper here](http://byungjunkim.github.io/files/paper3.pdf)
 
 ## Abstract
