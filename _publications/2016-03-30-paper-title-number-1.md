@@ -2,7 +2,7 @@
 title: "Social Geography of Novelists Mediated by Literature Magazines in Korea: 1994~2014"
 collection: publications
 permalink: /publication/2016-03-30-paper-title-number-1
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'We suggest that the problem of 'literature power' can be better understood in terms of 'cronyism'. The non-literary bases of literature in Korea should be further recognized in the enterprise of Korean literature.'
 date: 2016-03-30
 venue: 'The Journal of Korean Fiction Research'
 # paperurl: 'http://byungjunkim.github.io/files/paper1.pdf'
