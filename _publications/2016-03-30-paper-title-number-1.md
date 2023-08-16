@@ -6,7 +6,7 @@ excerpt: "Using descriptive and inferential network statistics, we found the evi
 date: 2016-03-30
 venue: 'The Journal of Korean Fiction Research'
 # paperurl: 'http://byungjunkim.github.io/files/paper1.pdf'
-# citation: 'Bong Gwan Jun, Byungjun Kim and Wonjae Lee. (2016). &quot;Social Geography of Novelists Mediated by Literature Magazines in Korea: 1994~2014.&quot; <i>The Journal of Korean Fiction Research</i>. 61.'
+citation: 'Bong Gwan Jun, Byungjun Kim and Wonjae Lee. (2016). &quot;Social Geography of Novelists Mediated by Literature Magazines in Korea: 1994~2014.&quot; <i>The Journal of Korean Fiction Research</i>. 61.'
 ---
 [Online link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002092223)  
 [Download paper here](http://byungjunkim.github.io/files/paper1.pdf)
