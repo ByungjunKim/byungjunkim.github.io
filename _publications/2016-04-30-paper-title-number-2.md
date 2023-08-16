@@ -8,6 +8,7 @@ venue: 'The Journal of Modern Korean Literature'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Bong Gwan Jun, Byungjun Kim and Wonjae Lee. (2016). &quot;The Influence of Writer-Critic relationships and Critic’s Structural Positions on the Sales Growth in Book Market: 2010-2015.&quot; <i>The Journal of Modern Korean Literature</i>. 48.'
 ---
+
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
 ## Abstract
