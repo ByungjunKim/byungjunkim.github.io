@@ -2,7 +2,7 @@
 title: "Discursive Correlation between Seobuk Hakhoe Wolbo (Seobuk Monthly Magazine) and Taeguek Hakbo (Taeguek Bulletin) Using Digital Humanities Methodology"
 collection: publications
 permalink: /publication/2019-06-30-paper-title-number-4
-excerpt: "This study analyzes the shifting aspects of critical language according to 3,057 criticism texts in three literature magazines (Changjakkwapipyong, Munhaktongne, and Munhakkwasahoe) from 1995 to 2015."
+excerpt: "In a quantitative analysis of correlations among a wide variety of academic and association publications between 1905 and 1910 (the modern enlightenment period), these two showed the greatest degree of similarity, with the sole exception of correlations among Japanese and Korean student magazines."
 date: 2019-06-30
 venue: 'CONCEPT AND COMMUNICATION'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
