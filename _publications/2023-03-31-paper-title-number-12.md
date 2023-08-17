@@ -9,7 +9,7 @@ venue: 'Korean Language and Literature in International Context'
 citation: "Jinseok Choi, Byungjun Kim, Yeseul Huh, Joo Chan Choi, and Hoduk Hwang. (2023). &quot;Kim Yunsik and Our Epoch, A Demographic Viewpoint of Citation - Korean Modern Literature Researchers' Citation Patterns of Kim Yunsik's Writings by Gender and Generation, 2004-2019.&quot; <i>Korean Language and Literature in International Context</i>. 96."
 ---
 [Online link](https://doi.org/10.31147/IALL.96.12)  
-[Github](https://github.com/ByungjunKim/CRKMLS)
+[Github](https://github.com/ByungjunKim/CRKMLS)  
 [Download paper here](http://byungjunkim.github.io/files/paper12.pdf)
 
 ## Abstract
