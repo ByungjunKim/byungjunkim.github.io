@@ -1,7 +1,7 @@
 ---
 title: "A Soft Power Challenge, or an Opportunity? A Big Data Analysis on Chinese Soft Power during COVID-19 Pandemic"
 collection: publications
-permalink: /publication/2022-07-31-paper-title-number-15
+permalink: /publication/2023-07-31-paper-title-number-15
 excerpt: "This study aimed to look at how the Chinese soft power changed throughout the pandemic using English news articles that covered China. The research took a data science approach to investigate the contents of articles using machine-learning-based sentiment analysis and Dirichlet-Multinomial Regression (DMR) analysis."
 date: 2023-07-31
 venue: 'Foreign Policy Analysis'
