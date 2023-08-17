@@ -9,7 +9,7 @@ venue: 'Journal of Speech, Language, and Hearing Research'
 citation: "Jieun Song, <b>Byunjun Kim</b>, Minjeong Kim, and Paul Iverson. (2023). &quot;The Korean Speech Recognition sentences: A large corpus for evaluating semantic context and language experience in speech perception.&quot; <i>Journal of Speech, Language, and Hearing Research</i>. Published online."
 ---
 <!-- [Online link](https://doi.org/10.1093/fpa/orad011)   -->
-<!-- [Download paper here](http://byungjunkim.github.io/files/paper15.pdf) -->
+<!-- [Download paper here](http://byungjunkim.github.io/files/paper16.pdf) -->
 
 ## Abstract
 Purpose: The aim of this study was to develop and validate a large Korean sentence set with varying degrees of semantic predictability that can be used for testing speech recognition and lexical processing.  
