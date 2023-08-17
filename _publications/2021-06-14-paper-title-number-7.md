@@ -6,7 +6,7 @@ excerpt: "This study collected and analyzed 58,061 international news items rela
 date: 2021-06-14
 venue: 'International Journal of Environmental Research and Public Health'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
-citation: 'Kyeo Re Lee, Byungjun Kim, Dongyan Nan, and Jang Hyun Kim. (2021). &quot;Structural Topic Model Analysis of Mask-Wearing Issue Using International News Big Data.&quot; <i>International Journal of Environmental Research and Public Health</i>. 18(12).'
+citation: 'Kyeo Re Lee, <b>Byungjun Kim</b>, Dongyan Nan, and Jang Hyun Kim. (2021). &quot;Structural Topic Model Analysis of Mask-Wearing Issue Using International News Big Data.&quot; <i>International Journal of Environmental Research and Public Health</i>. 18(12).'
 ---
 [Online link](https://doi.org/10.3390/ijerph18126432)  
 [Download paper here](http://byungjunkim.github.io/files/paper7.pdf)

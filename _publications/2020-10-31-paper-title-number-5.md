@@ -6,7 +6,7 @@ excerpt: "These findings suggest that the academia of modern Korean literature b
 date: 2020-10-31
 venue: 'Sanghur Hakbo: The Journal of Korean Modern Literature'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
-citation: 'Byungjun Kim and Junghwan Cheon. (2020). &quot;The Changes and Prospects of Studies on Modern Korean Literature Data Analysis of Doctoral Dissertations from 2000 throughout 2019.&quot; <i>Sanghur Hakbo: The Journal of Korean Modern Literature</i>. 60.'
+citation: '<b>Byungjun Kim</b> and Junghwan Cheon. (2020). &quot;The Changes and Prospects of Studies on Modern Korean Literature Data Analysis of Doctoral Dissertations from 2000 throughout 2019.&quot; <i>Sanghur Hakbo: The Journal of Korean Modern Literature</i>. 60.'
 ---
 [Online link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002647202)  
 [Wiki](http://www.klbksk.com/wiki/index.php/DDMKL)  

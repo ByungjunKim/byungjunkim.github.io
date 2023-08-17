@@ -6,7 +6,7 @@ excerpt: "This study introduces a novel approach to analyze diverse informal civ
 date: 2021-01-31
 venue: 'CITIES'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
-citation: 'Byungjun Kim, Minjoo Yoo, Keon Chul Park, Kyeo Re Lee and Jang Hyun Kim. (2021). &quot;A value of civic voices for smart city: A big data analysis of civic queries posed by Seoul citizens.&quot; <i>CITIES</i>. 108.'
+citation: '<b>Byungjun Kim</b>, Minjoo Yoo, Keon Chul Park, Kyeo Re Lee and Jang Hyun Kim. (2021). &quot;A value of civic voices for smart city: A big data analysis of civic queries posed by Seoul citizens.&quot; <i>CITIES</i>. 108.'
 ---
 [Online link](https://doi.org/10.1016/j.cities.2020.102941)  
 [Download paper here](http://byungjunkim.github.io/files/paper6.pdf)

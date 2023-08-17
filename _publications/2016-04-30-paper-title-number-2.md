@@ -6,7 +6,7 @@ excerpt: "We statistically analyzed the influence of critics on the book’s sal
 date: 2016-04-30
 venue: 'The Journal of Modern Korean Literature'
 # paperurl: 'http://byungjunkim.github.io/files/paper2.pdf'
-citation: 'Wonjae Lee, Byungjun Kim and Bong Gwan Jun. (2016). &quot;The Influence of Writer-Critic relationships and Critic’s Structural Positions on the Sales Growth in Book Market: 2010-2015.&quot; <i>The Journal of Modern Korean Literature</i>. 48.'
+citation: 'Wonjae Lee, <b>Byungjun Kim</b>, and Bong Gwan Jun. (2016). &quot;The Influence of Writer-Critic relationships and Critic’s Structural Positions on the Sales Growth in Book Market: 2010-2015.&quot; <i>The Journal of Modern Korean Literature</i>. 48.'
 ---
 [Online link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002106457)  
 [Download paper here](http://byungjunkim.github.io/files/paper2.pdf)

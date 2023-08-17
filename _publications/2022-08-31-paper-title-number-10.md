@@ -6,7 +6,7 @@ excerpt: "The current study investigated media coverage regarding conflicts rela
 date: 2022-08-31
 venue: 'Asian Journal of Innovation and Policy'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
-citation: "Jiseong Yang, Byungjun Kim, and Wonjae Lee. (2022). &quot;Media coverage of the conflicts over the 4th Industrial Revolution in the Republic of Korea from 2016 to 2020: a text-mining approach.&quot; <i>Asian Journal of Innovation and Policy</i>. 11(2)."
+citation: "Jiseong Yang, <b>Byungjun Kim</b>, and Wonjae Lee. (2022). &quot;Media coverage of the conflicts over the 4th Industrial Revolution in the Republic of Korea from 2016 to 2020: a text-mining approach.&quot; <i>Asian Journal of Innovation and Policy</i>. 11(2)."
 ---
 [Online link](https://doi.org/10.7545/ajip.2022.11.2.202)  
 [Download paper here](http://byungjunkim.github.io/files/paper10.pdf)

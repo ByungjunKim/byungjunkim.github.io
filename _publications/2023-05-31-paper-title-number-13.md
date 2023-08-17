@@ -6,7 +6,7 @@ excerpt: "How does the data science-driven sociology of knowledge work? What are
 date: 2023-05-31
 venue: 'Korean Journal of Sociology'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
-citation: "June Jeon, Byungjun Kim, Jaehong Kim, and Lanu Kim. (2023). &quot;Opening the Blackbox of Computational Social Science Research Process: A Case of Comparative Study of Social Science Academia.&quot; <i>Korean Journal of Sociology</i>. 57(2)."
+citation: "June Jeon, <b>Byungjun Kim</b>, Jaehong Kim, and Lanu Kim. (2023). &quot;Opening the Blackbox of Computational Social Science Research Process: A Case of Comparative Study of Social Science Academia.&quot; <i>Korean Journal of Sociology</i>. 57(2)."
 ---
 [Online link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002967055)  
 [Github](https://github.com/ByungjunKim/OpenBlackBox)  
