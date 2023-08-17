@@ -22,4 +22,4 @@ This paper selects 844,251 regular articles from the Chosun Ilbo data, published
 
 ![Comparing cosine similarity between minjok and gukga and between gungmin and gukga by year](http://byungjunkim.github.io/files/figures/paper14_fig1.png "Comparing cosine similarity between minjok and gukga and between gungmin and gukga by year")  
 
-![Cosine similarity of minjok and gungmin by year](http://byungjunkim.github.io/files/paper14_fig2.png "Cosine similarity of minjok and gungmin by year")
+![Cosine similarity of minjok and gungmin by year](http://byungjunkim.github.io/files/figures/paper14_fig2.png "Cosine similarity of minjok and gungmin by year")
