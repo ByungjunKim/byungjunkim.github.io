@@ -6,7 +6,7 @@ excerpt: "Although it has taken quite a long time to discuss the Korean term ‘
 date: 2021-09-30
 venue: 'DAEDONG MUNHWA YEON'GU'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
-citation: 'Jaehyun Seo, Byungjun Kim, Minwoo Kim, and Sejeong Park. (2021). &quot;Distant Reading on ‘Uri’― Word2Vec and N-gram Analysis on Modern Korean Novels.&quot; <i>DAEDONG MUNHWA YEON'GU</i>. 115.'
+citation: "Jaehyun Seo, Byungjun Kim, Minwoo Kim, and Sejeong Park. (2021). &quot;Distant Reading on ‘Uri’― Word2Vec and N-gram Analysis on Modern Korean Novels.&quot; <i>DAEDONG MUNHWA YEON'GU</i>. 115."
 ---
 [Online link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002758341)  
 [Github](https://github.com/Minwoo-study/Project_Uri)  
