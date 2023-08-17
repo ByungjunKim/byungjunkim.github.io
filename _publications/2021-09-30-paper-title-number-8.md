@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-09-30-paper-title-number-8
 excerpt: "Although it has taken quite a long time to discuss the Korean term ‘Uri’ until recent days, it is still in a stalemate without a clear explanation. Through applying quantitative research methodology so-called ‘Distant Reading’, this paper explores the new way to solve the problem."
 date: 2021-09-30
-venue: 'DAEDONG MUNHWA YEON'GU'
+venue: "DAEDONG MUNHWA YEON'GU"
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
 citation: "Jaehyun Seo, Byungjun Kim, Minwoo Kim, and Sejeong Park. (2021). &quot;Distant Reading on ‘Uri’― Word2Vec and N-gram Analysis on Modern Korean Novels.&quot; <i>DAEDONG MUNHWA YEON'GU</i>. 115."
 ---
