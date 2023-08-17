@@ -6,7 +6,7 @@ excerpt: "This paper selects 844,251 regular articles from the Chosun Ilbo data,
 date: 2023-06-31
 venue: 'The Journal of Korean Fiction Research'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
-citation: "Byungjun Kim and Bong Gwan Jun. (2023). &quot;Minjok, Gungmin, Gukga - Tracking Changes in the Meaning of National Discourse in Chosun Ilbo Articles Using Dynamic Word Embedding (1920-40).&quot; <i>The Journal of Korean Fiction Research</i>. 90."
+citation: "<b>Byungjun Kim</bold> and Bong Gwan Jun. (2023). &quot;Minjok, Gungmin, Gukga - Tracking Changes in the Meaning of National Discourse in Chosun Ilbo Articles Using Dynamic Word Embedding (1920-40).&quot; <i>The Journal of Korean Fiction Research</i>. 90."
 ---
 [Online link](https://doi.org/10.20483/JKFR.2023.06.90.5)  
 [Github](https://github.com/ByungjunKim/NationStateChosun)  
