@@ -19,3 +19,8 @@ This thesis aims to examine citation practices and the use of Kim Yoonsik’s te
 김윤식과 우리 시대, 인용의 인구사회학적 시좌-현대문학연구자의 성별및 세대별 김윤식 저술 인용 양상 연구 (2004-2019)-
 
 이 논문의 목적은 김윤식 저술이 현대문학 분야의 논문에서 어떻게 인용 및 활용되고 있는지를 확인하는 데 있다. 국문학자 김윤식의 학술적 업적에 대한 검토는 현대문학 학술사에서도 중요한 가치를 갖는 작업이지만, 그간의 연구에서는 주로 김윤식의 개별 저작들에 대한 검토를 통해 김윤식에 대해 접근해왔다. 이 논문은 김윤식의 저술을 인용한 논문들에 대한 세 가지 지점을 검토함으로써 김윤식이 2000년대 중반 이후 국문학계에서 어떻게 수용되었는지 확인하고자 하였다: 어떤 저술이 주로 인용되었는가, 누가 김윤식의 저술을 인용했는가, 그리고 김윤식의 저술은 어떻게 인용되었는가. 이를 위하여 2004년부터 2019년 사이에 간행된 현대문학 유관 학술지 38종의 현대문학 관련 논문들의 참고문헌 서지를 데이터로 구축 후 분석하였다. 그 결과 얻은 결론은 다음과 같다. 첫째, 김윤식의 저작 중에서는 한국근대문예비평사연구, 이광수와 그의 시대 등 1970,80년대의 저작이 주로 인용되었다. 둘째, 젊은 세대의 연구자일수록 김윤식의 저술을 더 많이 인용하는 경향이 확인되었다. 다만 1960년대생 연구자들만은 예외적으로 김윤식의 저술을 적게 인용하였다. 셋째, 서울대 출신 연구자이거나 남성 연구자일수록 김윤식의 저술을 많이 인용하는 경향이 확인되었다. 특히 여성 연구자들의 김윤식 인용 빈도는 2015년 이후 급격하게 하락했다.
+
+Yunsik Kim's citations to major works by year
+![Yunsik Kim's citations to major works by year"](http://byungjunkim.github.io/files/figures/paper12_fig1.png "Yunsik Kim's citations to major works by year")  
+
+![Example of BERTopic Model Results](http://byungjunkim.github.io/files/figures/paper12_fig2.png "Example of BERTopic Model Results")
