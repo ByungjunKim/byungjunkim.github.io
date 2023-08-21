@@ -1,8 +1,8 @@
 ---
-title: "Understanding the AI Society"
+title: "Virtual and Augmented Reality"
 collection: teaching
 type: "Liberal Arts Courses"
-permalink: /teaching/2020-spring-teaching-2
+permalink: /teaching/2020-spring-teaching-3
 venue: "Baekseok University, College of Liberal Arts"
 date: 2020-03-01
 location: "Cheonan, Republic of Korea"

@@ -4,14 +4,18 @@ collection: teaching
 type: "Undergraduate Major Courses"
 permalink: /teaching/2020-spring-teaching-1
 venue: "Sungkyunkwan University, College of Liberal Arts"
-date: 2020-03-01
+date: 2020-03-01 ~ 2021-03-01
 location: "Seoul, Republic of Korea"
 ---
 
 This course is for under-graduates who want to become digital humanities researchers or to learn data-science to find a career.
 
+## Semester
+Spring 2020, and Spring 2021
+
 ## Lecturer
-Junghwan Cheon (Department of Korean language & literature) & **Byungjun Kim**
+* Spring 2020 : Junghwan Cheon (Department of Korean language & literature) & **Byungjun Kim**
+* Spring 2021 : **Byungjun Kim** & Jiyoon Han (UpStage)
 
 ## Course Discription
 This course is for under-graduates who want to become digital humanities researchers or to learn data-science to find a career. Students will develop ability to deal with data through theories, basic perspectives, and hands-on practices. In particular, this course mainly deals with Korean-based data.  It is a team teaching cousre of experts with theory and development skills. 
