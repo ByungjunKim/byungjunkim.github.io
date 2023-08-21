@@ -8,9 +8,9 @@ date: 2021-03-01
 location: "Seoul, Republic of Korea"
 ---
 
-[Syllabus](http://www.klbksk.com/wiki/index.php/RDACKL(SKKU))
-
 This class aims to make a new interpretative attempt on the text of modern and contemporary Korean literature by applying various analytical methodologies of quantitative language analysis based on the database of modern and contemporary Korean literature data accumulated so far.
+
+[Syllabus](http://www.klbksk.com/wiki/index.php/RDACKL(SKKU))
 
 ## Lecturer
 Sungkyu Jeon (Department of Korean Language & Literature) and **Byungjun Kim**
