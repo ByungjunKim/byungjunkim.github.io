@@ -20,7 +20,7 @@ This course is for under-graduates who want to become digital humanities researc
 
 Course Schedule
 ======
-| **Week** | **Lesson Content**                                                      | **Type**         |
+| Week | Lesson Content                                                      | Type         |
 | ---- | ------------------------------------------------------------------- | ------------ |
 | 1    | Orientation / Introduction to Digital Humanities                    | Lecture      |
 | 2    | Introduction to Colab / Python Basics / Data Handling with Pandas 1 | Practice     |
