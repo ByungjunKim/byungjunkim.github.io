@@ -17,7 +17,7 @@ Spring 2020, and Spring 2021
 * Spring 2020
   * Junghwan Cheon (Department of Korean language & literature) & **Byungjun Kim**
 * Spring 2021 
-  * **Byungjun Kim** & Jiyoon Han (UpStage)
+  * **Byungjun Kim** & Jiyoon Han ([UpStage](https://www.upstage.ai/))
 
 ## Course Discription
 This course is for under-graduates who want to become digital humanities researchers or to learn data-science to find a career. Students will develop ability to deal with data through theories, basic perspectives, and hands-on practices. In particular, this course mainly deals with Korean-based data.  It is a team teaching cousre of experts with theory and development skills. 
