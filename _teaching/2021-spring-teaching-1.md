@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Major Courses"
 permalink: /teaching/2021-spring-teaching-1
 venue: "Sungkyunkwan University, College of Liberal Arts"
-date: 2020-03-01 ~ 2021-03-01
+date: 2021-03-01
 location: "Seoul, Republic of Korea"
 ---
 
