@@ -1,7 +1,7 @@
 ---
 title: "Korean-based Artificial Intelligence & Data Science"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Major Courses"
 permalink: /teaching/2020-spring-teaching-1
 venue: "Sungkyunkwan University, College of Liberal Arts"
 date: 2020-03-01
