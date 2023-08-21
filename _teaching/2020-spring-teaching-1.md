@@ -25,10 +25,10 @@ This course is for under-graduates who want to become digital humanities researc
 | 3    | Data Handling with Pandas 2 / Team Building                         | Practice     |
 | 4    | Humanities Data Collection 1 (Gutenberg Project/Wikisource)         | Practice     |
 | 5    | Humanities Data Collection 2 (Open Government Data Portal)          | Practice     |
-| 6    | Data preprocessing (XML parsing, etc.)                              | Practice     |
-| 7    | Data preprocessing (regular expressions, etc.)                      | Practice     |
+| 6    | Data Preprocessing (XML parsing, etc.)                              | Practice     |
+| 7    | Data Preprocessing (regular expressions, etc.)                      | Practice     |
 | 8    | Team Project Research Proposal                                      | Presentation |
-| 9    | Database construction and archiving                                 | Practice     |
+| 9    | Database Construction and Archiving                                 | Practice     |
 | 10   | Natural Language Processing 1                                       | Practice     |
 | 11   | Natural Language Processing 2                                       | Practice     |
 | 12   | Basic Statistics                                                    | Practice     |
