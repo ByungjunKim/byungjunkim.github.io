@@ -18,3 +18,7 @@ We statistically analyzed the influence of critics on the book’s sales using l
 작가-비평가 관계와 비평가의 구조적 위치가 소설 단행본 판매량 증감에 미치는 영향: 2010-2015
 
 우리는 1994년부터 2015년까지 3대 문예지 서지 정보와 작가, 비평가들의 사회‧인구학적 정보 그리고 2010-15년 사이 3대 출판사 소설 단행본 판매량 자료를 활용하여 비평이 소설 단행본 판매량에 미치는 영향력을 통계적으로 분석하였다. 분석 결과 작가와 비평가의 관계는 물론 비평가의 네트워크 위치가 소설 단행본 판매량에 영향을 끼쳤음을 확인하였다. 이 결과는 상업적 목적을 위해 평론 권력과 사회적 권력이 동원되고 있다는 문학 권력론의 가설을 경험적으로 지지한다. 이를 토대로 우리는 한국 문학 권력의 이론적 메커니즘을 제안한다.
+
+![A network of critics is visualized using bibliographic data from three literary magazines with academic ties](http://byungjunkim.github.io/files/figures/paper2_fig1.png "A network of critics is visualized using bibliographic data from three literary magazines with academic ties")  
+
+![Sales trends for fiction, reviews of connected books on blogs, articles on news, and criticisms of the three literary magazines from 2010 to 2015](http://byungjunkim.github.io/files/figures/paper2_fig2.png "Sales trends for fiction, reviews of connected books on blogs, articles on news, and criticisms of the three literary magazines from 2010 to 2015")

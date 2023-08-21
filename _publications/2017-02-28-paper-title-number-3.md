@@ -19,6 +19,6 @@ This study analyzes the shifting aspects of critical language according to 3,057
 
 본 연구는 1995년부터 2015년까지 3대 문예지(『창작과비평』, 『문학동네』, 『문학과사회』)에 게재된 문학 비평 텍스트 3,057편을 바탕으로 21년간의 비평 언어의 변동 양상을 분석하였다. TF-IDF 가중치를 활용해 비평 언어에서 주요한 상위 500개의 개념단어를 추출하고, 이를 통해 문예지별, 시기별 분석을 실시하였다. 각 문예지는 대통령 선거라는 사회정치적 변동기를 전후하여 개념 단어의 사용 양상이 변화하였다. 각 문예지들의 심미적, 이념적 지향점 차이를 개념단어를 통해 재확인할 수 있었다. 또한 주요 개념단어를 매개로한 비평가들의 지형도를 분석한 결과, 비평가의 사회적 지위가 개념 단어 사용에 기반한 비평 텍스트의 개성도에 영향을 끼침을 확인하였다.
 
-![Key word heatmap using TF-IDF in three literary magazines' critical writings, organized by year](http://byungjunkim.github.io/files/figures/paper5_fig1.png "Key word heatmap using TF-IDF in three literary magazines' critical writings, organized by year")  
+![Key word heatmap using TF-IDF in three literary magazines' critical writings, organized by year](http://byungjunkim.github.io/files/figures/paper3_fig1.png "Key word heatmap using TF-IDF in three literary magazines' critical writings, organized by year")  
 
 ![The ideological landscape of critics writing in three literary magazines as visualized by PCA](http://byungjunkim.github.io/files/figures/paper3_fig2.png "The ideological landscape of critics writing in three literary magazines as visualized by PCA")
