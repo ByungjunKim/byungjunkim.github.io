@@ -16,7 +16,7 @@ Junghwan Cheon (Department of Korean language & literature) & **Byungjun Kim** (
 
 Course Discription
 ======
-This course is for under-graduates who want to become digital humanities researchers or to learn data-science to find a career. Students will develop ability to deal with data through theories, basic perspectives, and hands-on practices.   In particular, this course mainly deals with Korean-based data.  It is a team teaching cousre of experts with theory and development skills. 
+This course is for under-graduates who want to become digital humanities researchers or to learn data-science to find a career. Students will develop ability to deal with data through theories, basic perspectives, and hands-on practices. In particular, this course mainly deals with Korean-based data.  It is a team teaching cousre of experts with theory and development skills. 
 
 Course Schedule
 ======
