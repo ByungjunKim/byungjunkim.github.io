@@ -8,7 +8,7 @@ date: 2020-03-01
 location: "Cheonan, Republic of Korea"
 ---
 
-This course is designed to increase students' understanding of how artificial intelligence is becoming an everyday part of society.
+This course aims to improve students' comprehension of how artificial intelligence is permeating society on a daily basis.
 
 Lecturer
 ======
@@ -16,7 +16,7 @@ Byungjun Kim
 
 Course Discription
 ======
-This course is designed to increase students' understanding of how artificial intelligence is becoming an everyday part of society. Through this course, students will learn about the concept of artificial intelligence, and how artificial intelligence technology is applied in various fields of our society, both now and in the future. This will enable students to proactively prepare for the future society.
+This course aims to improve students' comprehension of how artificial intelligence is permeating society on a daily basis. Students will gain knowledge of artificial intelligence as a concept and how it is used today and in the future in many facets of our society through this course. Students will be able to actively get ready for the society of the future thanks to this.
 
 Course Schedule
 ======
