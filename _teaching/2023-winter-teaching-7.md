@@ -10,7 +10,7 @@ location: "Seoul, Republic of Korea"
 
 The course encompasses the field of Computational Literary Studies, which use quantitative methodologies to gain insights into the realm of literature.
 
-## Semester
+## Date
 January 9-13, 2023
 
 ## Lecturer
