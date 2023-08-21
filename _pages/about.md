@@ -67,7 +67,7 @@ Skills and Techniques
 2. R
    * Statistical analysis
    * Data visualization
-3. Web Scraping
+3. Web Scraping/Crawling
 4. Social Network Analysis (SNA)
    * Gephi, networkx, igraph, etc.
 5. Bibliometrics
