@@ -11,7 +11,7 @@ location: "Seoul, Republic of Korea"
 The course encompasses the field of Computational Literary Studies, which use quantitative methodologies to gain insights into the realm of literature.
 
 ## Semester
-Winter 2023
+January 9-13, 2023
 
 ## Lecturer
 Seohyon Jung (KAIST, School of Digital Humanities & Computational Social Sciences) & **Byungjun Kim**
