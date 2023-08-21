@@ -12,7 +12,7 @@ This course is for under-graduates who want to become digital humanities researc
 
 Lecturer
 ======
-Junghwan Cheon (Department of Korean language & literature) & **Byungjun Kim** (Department of Interaction Science)
+Junghwan Cheon (Department of Korean language & literature) & **Byungjun Kim**
 
 Course Discription
 ======
