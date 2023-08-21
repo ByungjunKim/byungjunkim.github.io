@@ -6,7 +6,7 @@ excerpt: "In a quantitative analysis of correlations among a wide variety of aca
 date: 2019-06-30
 venue: 'CONCEPT AND COMMUNICATION'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
-citation: 'Jeon Seong Kyu and <b>Byungjun Kim</b>. (2019). &quot;Discursive Correlation between Seobuk Hakhoe Wolbo (Seobuk Monthly Magazine) and Taeguek Hakbo (Taeguek Bulletin) Using Digital Humanities Methodology.&quot; <i>CONCEPT AND COMMUNICATION</i>. 23.'
+citation: 'Seong Kyu Jeon and <b>Byungjun Kim</b>. (2019). &quot;Discursive Correlation between Seobuk Hakhoe Wolbo (Seobuk Monthly Magazine) and Taeguek Hakbo (Taeguek Bulletin) Using Digital Humanities Methodology.&quot; <i>CONCEPT AND COMMUNICATION</i>. 23.'
 ---
 [Online link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002485130)  
 [Download paper here](http://byungjunkim.github.io/files/paper4.pdf)
