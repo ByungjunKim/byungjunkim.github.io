@@ -12,6 +12,9 @@ This class aims to make a new interpretative attempt on the text of modern and c
 
 [Syllabus](http://www.klbksk.com/wiki/index.php/RDACKL(SKKU))
 
+## Semester
+Spring 2021
+
 ## Lecturer
 Sungkyu Jeon (Department of Korean Language & Literature) and **Byungjun Kim**
 

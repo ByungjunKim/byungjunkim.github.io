@@ -10,6 +10,9 @@ location: "Seoul, Republic of Korea"
 
 Students who are majoring in Chinese language, literature, or culture will learn how to comprehend and create data for digital humanities research in this course.
 
+## Semester
+Spring 2021
+
 ## Lecturer
 Byungjun Kim
 
