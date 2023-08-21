@@ -1,7 +1,7 @@
 ---
 title: "Designing and Building Chinese Cultural Data"
 collection: teaching
-type: "Graduate Major Courses"
+type: "Undergraduate Major Courses"
 permalink: /teaching/2021-spring-teaching-5
 venue: "Hankuk University of Foreign Studies, Division of Chinese Language, Literature & Culture"
 date: 2021-03-01
