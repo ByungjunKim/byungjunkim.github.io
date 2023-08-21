@@ -21,4 +21,5 @@ In this class, as in the subtitle of the class, certain categories of modern and
 The original text entry and contrast work will be carried out using the Wiki platform and will be released so that anyone can see the digitized works. After working on the literature, we use Python to analyze the form of the form, extract keywords, and learn the machine. Final research results drawn at the end of the semester will also be posted on Wiki.
 
 ## Student Deliverables
+[Wiki](http://www.klbksk.com/wiki/index.php/%EC%9D%B4%EC%9D%B8%EC%A7%81)  
 [Colloquium:Lee Injik's novels read as data](http://www.klbksk.com/wiki/index.php/Leeinjik_Colloquium202108)
