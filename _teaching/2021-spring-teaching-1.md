@@ -42,3 +42,6 @@ This course is for under-graduates who want to become digital humanities researc
 | 14   | Machine Learning 2 - Unsupervised Learning                          | Practice     |
 | 15   | Data Visualization and Network Analysis                             | Practice     |
 | 16   | Final Presentation of Team Project                                  | Presentation |
+
+## Student Deliverables
+[A Textual Analysis of the Student Community at Sungkyunkwan University Reveals Racist Aspects of "Chinaphobia"](http://www.klbksk.com/wiki/index.php/%E2%80%9C%EC%A4%91%EA%B5%AD%EC%9D%B8_%ED%98%90%EC%98%A4%E2%80%9D%EC%9D%98_%EC%9D%B8%EC%A2%85_%EC%B0%A8%EB%B3%84%EC%A0%81%EC%9D%B8_%EC%96%91%EC%83%81_-%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80%ED%95%99%EA%B5%90_%E2%80%98%EC%97%90%EB%B8%8C%EB%A6%AC%ED%83%80%EC%9E%84%E2%80%99%EC%9D%84_%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C-)
