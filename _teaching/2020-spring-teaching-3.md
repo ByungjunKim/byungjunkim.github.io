@@ -3,7 +3,7 @@ title: "Virtual and Augmented Reality"
 collection: teaching
 type: "Liberal Arts Courses"
 permalink: /teaching/2020-spring-teaching-3
-venue: "Baekseok University, College of Liberal Arts"
+venue: "College of Liberal Arts, Baekseok University"
 date: 2020-03-01
 location: "Cheonan, Republic of Korea"
 ---

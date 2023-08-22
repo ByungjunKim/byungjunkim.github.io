@@ -3,7 +3,7 @@ title: "Korean-based Artificial Intelligence & Data Science"
 collection: teaching
 type: "Undergraduate Major Courses"
 permalink: /teaching/2021-spring-teaching-1
-venue: "Sungkyunkwan University, College of Liberal Arts"
+venue: "College of Liberal Arts, Sungkyunkwan University"
 date: 2021-03-01
 location: "Seoul, Republic of Korea"
 ---
