@@ -3,7 +3,7 @@ title: "Literature as Data: The Potential of Quantitative Text Analysis"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2023-winter-teaching-7
-venue: "KAIST, Center for Digital Humanities & Computational Social Sciences"
+venue: "Center for Digital Humanities & Computational Social Sciences, KAIST"
 date: 2023-01-01
 location: "Seoul, Republic of Korea"
 ---

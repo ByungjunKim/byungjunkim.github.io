@@ -3,7 +3,7 @@ title: "Research on Data Analysis of Contemporary Korean Literature"
 collection: teaching
 type: "Graduate Major Courses"
 permalink: /teaching/2021-spring-teaching-4
-venue: "Sungkyunkwan University, Department of Korean Language & Literature"
+venue: "Department of Korean Language & Literature, Sungkyunkwan University"
 date: 2021-03-01
 location: "Seoul, Republic of Korea"
 ---

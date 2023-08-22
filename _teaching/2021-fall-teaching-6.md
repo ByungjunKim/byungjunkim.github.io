@@ -3,7 +3,7 @@ title: "Confucian Self-cultivation and Actualization"
 collection: teaching
 type: "Graduate Major Courses"
 permalink: /teaching/2021-fall-teaching-6
-venue: "Sungkyunkwan University, College of Confucian Studies and Eastern Philosophy"
+venue: "College of Confucian Studies and Eastern Philosophy, Sungkyunkwan University"
 date: 2021-09-01
 location: "Seoul, Republic of Korea"
 ---
