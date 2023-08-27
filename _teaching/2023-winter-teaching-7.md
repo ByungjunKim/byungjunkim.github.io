@@ -1,5 +1,5 @@
 ---
-title: "Literature as Data: The Potential of Quantitative Text Analysis (데이터로서의 문학: 텍스트 정량분석의 잠재력)"
+title: "Literature as Data: The Potential of Quantitative Text Analysis<br>(데이터로서의 문학: 텍스트 정량분석의 잠재력)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2023-winter-teaching-7
