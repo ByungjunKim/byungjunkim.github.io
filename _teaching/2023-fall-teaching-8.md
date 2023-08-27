@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Digital Humanities Ⅱ: Computational Literary Studies"
+title: "Introduction to Digital Humanities Ⅱ: Computational Literary Studies (디지털인문학입문 Ⅱ: 문학)"
 collection: teaching
 type: "Undergraduate Major Courses"
 permalink: /teaching/2023-fall-teaching-8

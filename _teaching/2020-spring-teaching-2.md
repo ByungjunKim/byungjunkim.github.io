@@ -1,5 +1,5 @@
 ---
-title: "Understanding the AI Society"
+title: "Understanding the AI Society (인공지능사회의이해)"
 collection: teaching
 type: "Liberal Arts Courses"
 permalink: /teaching/2020-spring-teaching-2

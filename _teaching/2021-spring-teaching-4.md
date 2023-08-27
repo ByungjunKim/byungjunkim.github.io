@@ -1,5 +1,5 @@
 ---
-title: "Research on Data Analysis of Contemporary Korean Literature"
+title: "Research on Data Analysis of Contemporary Korean Literature (한국현대문학데이터분석연구)"
 collection: teaching
 type: "Graduate Major Courses"
 permalink: /teaching/2021-spring-teaching-4

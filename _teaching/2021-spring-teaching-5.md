@@ -1,5 +1,5 @@
 ---
-title: "Designing and Building Chinese Cultural Data"
+title: "Designing and Building Chinese Cultural Data (중국문화데이터설계와구축)"
 collection: teaching
 type: "Undergraduate Major Courses"
 permalink: /teaching/2021-spring-teaching-5

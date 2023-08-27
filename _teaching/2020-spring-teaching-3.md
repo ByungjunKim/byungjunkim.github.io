@@ -1,5 +1,5 @@
 ---
-title: "Virtual and Augmented Reality"
+title: "Virtual and Augmented Reality (가상현실과증강현실)"
 collection: teaching
 type: "Liberal Arts Courses"
 permalink: /teaching/2020-spring-teaching-3

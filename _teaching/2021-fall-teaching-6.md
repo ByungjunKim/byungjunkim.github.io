@@ -1,5 +1,5 @@
 ---
-title: "Confucian Self-cultivation and Actualization"
+title: "Confucian Self-cultivation and Actualization (유교의수양과자기실현)"
 collection: teaching
 type: "Graduate Major Courses"
 permalink: /teaching/2021-fall-teaching-6

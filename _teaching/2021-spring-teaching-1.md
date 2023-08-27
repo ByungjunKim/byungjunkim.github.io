@@ -1,5 +1,5 @@
 ---
-title: "Korean-based Artificial Intelligence & Data Science"
+title: "Korean-based Artificial Intelligence & Data Science (한국어인공지능데이터과학)"
 collection: teaching
 type: "Undergraduate Major Courses"
 permalink: /teaching/2021-spring-teaching-1
