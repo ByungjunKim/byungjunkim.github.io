@@ -1,5 +1,5 @@
 ---
-title: "Kim Yunsik and Our Epoch, A Demographic Viewpoint of Citation - Korean Modern Literature Researchers' Citation Patterns of Kim Yunsik's Writings by Gender and Generation, 2004-2019"
+title: "Kim Yunsik and Our Epoch, A Demographic Viewpoint of Citation - Korean Modern Literature Researchers' Citation Patterns of Kim Yunsik's Writings by Gender and Generation, 2004-2019<br>(김윤식과 우리 시대, 인용의 인구사회학적 시좌-현대문학연구자의 성별및 세대별 김윤식 저술 인용 양상 연구 (2004-2019)-)"
 collection: publications
 permalink: /publication/2022-03-31-paper-title-number-12
 excerpt: "This thesis aims to examine citation practices and the use of Kim Yunsik’s texts in theses on modern literature. The thesis addresses three key concerns: which of his writings were most frequently referenced, who most frequently cited his writings, and how were his works cited."

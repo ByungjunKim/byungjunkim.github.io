@@ -1,5 +1,5 @@
 ---
-title: "Social Geography of Novelists Mediated by Literature Magazines in Korea: 1994~2014"
+title: "Social Geography of Novelists Mediated by Literature Magazines in Korea: 1994~2014<br>(문예지를 매개로 한 한국 소설가들의 사회적 지형: 1994~ 2014)"
 collection: publications
 permalink: /publication/2016-03-30-paper-title-number-1
 excerpt: "Using descriptive and inferential network statistics, we found the evidence that there was a significant correlation between the literature activities and the social backgrounds of the novelists."

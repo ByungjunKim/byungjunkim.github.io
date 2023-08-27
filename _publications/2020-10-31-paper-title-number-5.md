@@ -1,5 +1,5 @@
 ---
-title: "The Changes and Prospects of Studies on Modern Korean Literature Data Analysis of Doctoral Dissertations from 2000 throughout 2019"
+title: "The Changes and Prospects of Studies on Modern Korean Literature Data Analysis of Doctoral Dissertations from 2000 throughout 2019<br>(박사학위 논문(2000~2019) 데이터 분석을 통해 본 한국 현대문학 연구의 변화와 전망)"
 collection: publications
 permalink: /publication/2020-10-31-paper-title-number-5
 excerpt: "These findings suggest that the academia of modern Korean literature began to fissure, thereby gaining differences and diversities."

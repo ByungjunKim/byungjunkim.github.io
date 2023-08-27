@@ -1,5 +1,5 @@
 ---
-title: "The Influence of Writer-Critic relationships and Critic’s Structural Positions on the Sales Growth in Book Market: 2010-2015"
+title: "The Influence of Writer-Critic relationships and Critic’s Structural Positions on the Sales Growth in Book Market: 2010-2015<br>(작가-비평가 관계와 비평가의 구조적 위치가 소설 단행본 판매량 증감에 미치는 영향: 2010-2015)"
 collection: publications
 permalink: /publication/2016-04-30-paper-title-number-2
 excerpt: "We statistically analyzed the influence of critics on the book’s sales using longitudinal data of book sales, bibliographies of the three major publishers, and the socio-demography of writers and critics."

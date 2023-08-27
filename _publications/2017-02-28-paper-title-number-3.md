@@ -1,5 +1,5 @@
 ---
-title: "The Shifting Aspects of Concept Words Shown in Criticism in Literature Magazines, 1995~2015"
+title: "The Shifting Aspects of Concept Words Shown in Criticism in Literature Magazines, 1995~2015<br>(비평 언어의 변동: 문예지 비평 텍스트에 나타난 개념단어의 변동 양상, 1995~2015)"
 collection: publications
 permalink: /publication/2017-02-28-paper-title-number-3
 excerpt: "This study analyzes the shifting aspects of critical language according to 3,057 criticism texts in three literature magazines (Changjakkwapipyong, Munhaktongne, and Munhakkwasahoe) from 1995 to 2015."

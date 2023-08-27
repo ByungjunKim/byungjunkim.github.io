@@ -1,12 +1,12 @@
 ---
-title: "Discursive Correlation between Seobuk Hakhoe Wolbo (Seobuk Monthly Magazine) and Taeguek Hakbo (Taeguek Bulletin) Using Digital Humanities Methodology"
+title: "Discursive Correlation between Seobuk Hakhoe Wolbo and Taeguek Hakbo Using Digital Humanities Methodology<br>(디지털인문학 방법론을 통한 서북학회월보와 태극학보의 담론적 상관관계 연구)"
 collection: publications
 permalink: /publication/2019-06-30-paper-title-number-4
 excerpt: "In a quantitative analysis of correlations among a wide variety of academic and association publications between 1905 and 1910 (the modern enlightenment period), these two showed the greatest degree of similarity, with the sole exception of correlations among Japanese and Korean student magazines."
 date: 2019-06-30
 venue: 'CONCEPT AND COMMUNICATION'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
-citation: 'Seong Kyu Jeon and <b>Byungjun Kim</b>. (2019). &quot;Discursive Correlation between Seobuk Hakhoe Wolbo (Seobuk Monthly Magazine) and Taeguek Hakbo (Taeguek Bulletin) Using Digital Humanities Methodology.&quot; <i>CONCEPT AND COMMUNICATION</i>. 23.'
+citation: 'Seong Kyu Jeon and <b>Byungjun Kim</b>. (2019). &quot;Discursive Correlation between Seobuk Hakhoe Wolbo and Taeguek Hakbo Using Digital Humanities Methodology.&quot; <i>CONCEPT AND COMMUNICATION</i>. 23.'
 ---
 [Online link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002485130)  
 [Download paper here](http://byungjunkim.github.io/files/paper4.pdf)

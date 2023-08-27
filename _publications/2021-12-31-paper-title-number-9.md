@@ -1,5 +1,5 @@
 ---
-title: "The Possibility of Bibliometric-based Conceptual History Research"
+title: "The Possibility of Bibliometric-based Conceptual History Research<br>(계량서지학 기반 개념사 연구의 가능성)"
 collection: publications
 permalink: /publication/2021-12-31-paper-title-number-9
 excerpt: "The proposed research in conceptual history will employ bibliographic information and meta-bibliometrics as the primary data sources and approaches."

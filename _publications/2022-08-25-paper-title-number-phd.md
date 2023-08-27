@@ -1,5 +1,5 @@
 ---
-title: "Mapping the knowledge structure of Korean humanities : Bibliographic data analysis of humanities journal articles in the Korea citation index, 2004~2019"
+title: "Mapping the knowledge structure of Korean humanities : Bibliographic data analysis of humanities journal articles in the Korea citation index, 2004~2019<br>(한국 인문학의 지식구조 파악 : KCI 인문학 논문의 서지 데이터 분석, 2004~2019)"
 collection: publications
 permalink: /publication/2022-08-25-paper-title-number-phd
 excerpt: "This study analyzes the bibliographic information of around 250,000 KCI humanities papers published between 2004 and 2019 in order to comprehend the knowledge structure of Korean humanities over the previous 15 years. Bibliographic information used in the analysis includes text information such as the thesis's title, abstract, and keywords, citation information such as the number of citations and references, and demographic information such as the gender, age, and academic institution of the researcher who wrote the thesis."

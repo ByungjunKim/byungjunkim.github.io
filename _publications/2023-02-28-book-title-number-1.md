@@ -1,5 +1,5 @@
 ---
-title: "Reading Digitally and Writing with Data: Exploring Digital Korean Language and Literature"
+title: "Reading Digitally and Writing with Data: Exploring Digital Korean Language and Literature<br>(디지털로 읽고 데이터로 쓰다)"
 collection: publications
 permalink: /publication/2023-02-28-book-title-number-1
 excerpt: "The book comprises a compilation of essays authored by 13 researchers, along by their corresponding debates organized into six thematic categories. It can be asserted without hyperbole that this publication serves as a comprehensive and foundational resource for delving into the realm of digital Korean literature."

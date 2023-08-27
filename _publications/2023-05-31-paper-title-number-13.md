@@ -1,5 +1,5 @@
 ---
-title: "Opening the Blackbox of Computational Social Science Research Process: A Case of Comparative Study of Social Science Academia"
+title: "Opening the Blackbox of Computational Social Science Research Process: A Case of Comparative Study of Social Science Academia<br>(전산사회과학 연구과정의 블랙박스 열기: 아카데믹 데이터베이스를 활용한 비교사회학 연구를 중심으로)"
 collection: publications
 permalink: /publication/2022-05-31-paper-title-number-13
 excerpt: "How does the data science-driven sociology of knowledge work? What are the strengths and limitations of the computational approach in the sociology of knowledge, and what kinds of methodological challenges exist?"
