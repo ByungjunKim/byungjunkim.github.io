@@ -12,7 +12,7 @@ I am a research assistant professor at the <a href="https://dhcss.kaist.ac.kr/" 
 
 Research Interest Keywords
 ======
-Digital Humanities, Computational Social Sciences, Data Science, Natural Language Processing, Korean Studies, and Bibliometrics
+Digital Humanities, Computational Social Science, Data Science, Natural Language Processing, Korean Studies, and Bibliometrics
 
 Academic Positions
 ======
