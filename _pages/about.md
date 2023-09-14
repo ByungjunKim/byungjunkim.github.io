@@ -72,3 +72,5 @@ Skills and Techniques
    * Gephi, networkx, igraph, etc.
 5. Bibliometrics
    * CiteSpace, Vosviewer, etc.
+6. Database
+   * RDBMS, RDF/SPARQL, NoSQL.
