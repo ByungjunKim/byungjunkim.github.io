@@ -21,4 +21,9 @@ The course encompasses the field of Computational Literary Studies, which use qu
 
 ## Link
 
-[Winter Institute in Digital Humanities](https://dhcss.kaist.ac.kr/pages/sub/sub_0302)
+[Winter Institute in Digital Humanities](https://dhcss.kaist.ac.kr/pages/sub/sub_0302)  
+[Colab Link](https://drive.google.com/file/d/19uXKTs7e5qPO_43ABoIfT4EkrcOQcNNC/view?usp=sharing)  
+
+## Figure
+![Major emotions in five of Jane Austen's novels box plot](http://byungjunkim.github.io/files/figures/teaching7_fig1.png "Major emotions in five of Jane Austen's novels box plot")  
+![The emotion of joy in five of Jane Austen's novels box plot](http://byungjunkim.github.io/files/figures/teaching7_fig2.png "The emotion of joy in five of Jane Austen's novels box plot")  
