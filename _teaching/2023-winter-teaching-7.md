@@ -17,7 +17,7 @@ January 9-13, 2023
 Seohyon Jung (KAIST, School of Digital Humanities & Computational Social Sciences) & **Byungjun Kim**
 
 ## Course Discription
-The course encompasses the field of Computational Literary Studies, which use quantitative methodologies to gain insights into the realm of literature. The participants will get the opportunity to engage in the practical application of natural language processing techniques, including word embedding and emotion categorization, within the context of modern and contemporary Korean and English novels.
+The course encompasses the field of Computational Literary Studies, which use quantitative methodologies to gain insights into the realm of literature. The participants will get the opportunity to engage in the practical application of natural language processing techniques, including word embedding and emotion classification, within the context of modern and contemporary Korean and English novels.
 
 ## Link
 
