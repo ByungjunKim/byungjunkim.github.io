@@ -1,12 +1,12 @@
 ---
-title: "Reading Digitally and Writing with Data: Exploring Digital Korean Language and Literature<br>(디지털로 읽고 데이터로 쓰다)"
+title: "Reading Digitally and Writing with Data: Exploring Digital Korean Language and Literature<br>(디지털로 읽고 데이터로 쓰다:디지털 한국어문학의 모색)"
 collection: publications
 permalink: /publication/2023-02-28-book-title-number-1
 excerpt: "The book comprises a compilation of essays authored by 13 researchers, along by their corresponding debates organized into six thematic categories. It can be asserted without hyperbole that this publication serves as a comprehensive and foundational resource for delving into the realm of digital Korean literature."
 date: 2023-02-28
 venue: 'Bakmunsa'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
-citation: "Intae Ryu, Ji-Eun Kwak, Ki-Sung Kwon, Baro Kim, <b>Byungjun Kim</b>, Jisun Kim, Jinho Park, SeungMok Yang, Min-Cheol Lee, Jae-Yeon Lee, Moon Seok Jang, Young Won Ji, and Christina Han. (2023). &quot;디지털로 읽고 데이터로 쓰다(Reading Digitally and Writing with Data: Exploring Digital Korean Language and Literature).&quot; <i>Bakmunsa</i>."
+citation: "Intae Ryu, Ji-Eun Kwak, Ki-Sung Kwon, Baro Kim, <b>Byungjun Kim</b>, Jisun Kim, Jinho Park, SeungMok Yang, Min-Cheol Lee, Jae-Yeon Lee, Moon Seok Jang, Young Won Ji, and Christina Han. (2023). &quot;디지털로 읽고 데이터로 쓰다:디지털 한국어문학의 모색(Reading Digitally and Writing with Data: Exploring Digital Korean Language and Literature).&quot; <i>Bakmunsa</i>."
 ---
 [Online link](http://www.riss.kr/link?id=M16738481)  
 
