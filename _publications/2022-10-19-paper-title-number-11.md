@@ -6,7 +6,7 @@ excerpt: "We conducted a comparative study with North America to comparatively a
 date: 2022-10-19
 venue: 'Asian Journal of Technology Innovation'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
-citation: "Lee, K. R., Kim, J. H., Jang, J., Yoon, J., Nan, D., Kim, Y., & <b>Kim, B.</b> (2022). &quot;News big data analysis of international start-up innovation discourses through topic modelling and network analysis: comparing East Asia and North America.&quot; <i>Asian Journal of Technology Innovation</i>. 0(0), 1–23. https://doi.org/10.1080/19761597.2022.2134154"
+citation: "Lee, K. R., Kim, J. H., Jang, J., Yoon, J., Nan, D., Kim, Y., & <b>Kim, B.</b> (2023). &quot;News big data analysis of international start-up innovation discourses through topic modelling and network analysis: comparing East Asia and North America.&quot; <i>Asian Journal of Technology Innovation</i>. 31(3), 581–603. https://doi.org/10.1080/19761597.2022.2134154"
 ---
 [Online link](https://doi.org/10.1080/19761597.2022.2134154)  
 [Download paper here](http://byungjunkim.github.io/files/paper11.pdf)
