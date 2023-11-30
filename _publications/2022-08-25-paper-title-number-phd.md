@@ -18,3 +18,7 @@ In Study 1, I will use exploratory data analysis to analyze the number of papers
 ## 초록
 이 연구는 2004년부터 2019년까지 발간된 약 25만건의 KCI 인문학 논문 서지정보를 디지털인문학 방법론으로 분석해 지난 15년간의 한국 인문학의 지식구조를 파악한다. 분석에 활용한 서지정보는 논문의 제목, 초록, 주제어 등의 텍스트 정보와 피인용 수, 참고문헌 등의 인용 정보, 그리고 해당 논문을 쓴 연구자의 성별, 나이, 출신 학교 등의 인구 사회학 정보이다. 본 연구는 크게 네 장으로 구성된다. 1) KCI 논문 서지정보와 연구자의 인구 사회학 정보에 대한 탐색적 데이터 분석, 2) 구조적 토픽 모형을 활용한 연구 주제 군집 분석, 3) 참고문헌 동시 인용 분석을 통한 연구 지형도 분석이다. 4) 세가지 연구 결과를 토대로 앞으로의 한국 인문학에 대한 정책적 제언이다.
 Study1에서는 연도별 논문 게재량과 참고문헌 목록에서 시간에 따른 논문 생산량의 변화와 연구자의 세대 및 성별 변화 등을 탐색적 데이터 분석으로 살펴볼 것이다. Study 2에서는 논문의 텍스트 정보를 바탕으로 논문 메타정보에 따른 토픽 변화를 분석한다. 어떤 연구 주제가 시간에 흐름에 따라 부상하고 하락했는지 확인하고 앞으로 주목받을 주제는 무엇인지 확인한다. Study 3에서는 참고문헌 동시 인용 분석을 활용해 인용 관계에 따른 논문의 군집을 추출하고, 군집별로 해당 연구 군집을 이끈 중요한 저작을 뽑아 분석한다. 결론에서는 위 네 가지 데이터 분석 결과를 바탕으로 지난 15년간의 한국 인문학의 지식 생산과 확산의 구조를 밝히고, 앞으로의 한국 인문학계를 조망한다. 특히 오픈 사이언스와 디지털 인문학이라는 아젠다와 앞으로의 한국 인문학의 방향을 제언한다.
+
+![Top Topics in Korean Humanities Papers](http://byungjunkim.github.io/files/figures/phd_fig1.png "Top Topics in Korean Humanities Papers")  
+
+![Co-citation clusters in Korean humanities papers](http://byungjunkim.github.io/files/figures/phd_fig2.png "Co-citation clusters in Korean humanities papers")
