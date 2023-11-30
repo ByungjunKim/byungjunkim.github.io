@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=y-34CCwAAAAJ"
   email            : "bjkim@byungjunkim.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.scopus.com/authid/detail.uri?authorId=57219224710"
+  uri              : #"https://www.scopus.com/authid/detail.uri?authorId=57219224710"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          : "@koreadh"
   wikipedia        :
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57219224710"
 
 
 # Reading Files
