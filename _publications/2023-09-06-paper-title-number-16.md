@@ -6,7 +6,7 @@ excerpt: "The aim of this study was to develop and validate a large Korean sente
 date: 2023-09-06
 venue: 'Journal of Speech, Language, and Hearing Research'
 # paperurl: 'http://byungjunkim.github.io/files/paper16.pdf'
-citation: "Jieun Song, <b>Byunjun Kim</b>, Minjeong Kim, and Paul Iverson. (2023). &quot;The Korean Speech Recognition Sentences: A Large Corpus for Evaluating Semantic Context and Language Experience in Speech Perception.&quot; <i>Journal of Speech, Language, and Hearing Research</i>. 66(9)."
+citation: "Jieun Song, <b>Byungjun Kim</b>, Minjeong Kim, and Paul Iverson. (2023). &quot;The Korean Speech Recognition Sentences: A Large Corpus for Evaluating Semantic Context and Language Experience in Speech Perception.&quot; <i>Journal of Speech, Language, and Hearing Research</i>. 66(9)."
 ---
 [Online link](https://doi.org/10.1044/2023_JSLHR-23-00137)  
 [Download paper here](http://byungjunkim.github.io/files/paper16.pdf)
