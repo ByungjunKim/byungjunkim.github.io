@@ -36,7 +36,7 @@ Kyeo Re Lee, Jang Hyun Kim, Jayeon Jang, Jeewoo Yoon, Dongyan Nan, Yonghwan Kim,
 
 **Byungjun Kim**, Minjoo Yoo, Keon Chul Park, Kyeo Re Lee, Jang Hyun Kim, "A value of civic voices for smart city: A big data analysis of civic queries posed by Seoul citizens", *CITIES*, (2021) <a href="https://doi.org/10.1016/j.cities.2020.102941" target="_blank">Link</a>
 
-(Forthcoming) **김병준**, 허예슬, 최주찬, 최진석, "푸코의 초상 - 한국 현대문학 학술장의 푸코 인용 양상 변화, 2008-2021 KCI 등재 학술지 논문 참고문헌 데이터를 중심으로 (Portraits of Foucault in the Realm of Korean Modern Literature: Tracing Changes in Foucault Citations through Bibliographic Data from KCI-Indexed Journals, 2008-2021)", *사회와이론*, (2023)
+**김병준**, 허예슬, 최주찬, 최진석, "푸코의 초상 - 한국 현대문학 학술장의 푸코 인용 양상 변화, 2008-2021 KCI 등재 학술지 논문 참고문헌 데이터를 중심으로 (Portraits of Foucault in the Realm of Korean Modern Literature: Tracing Changes in Foucault Citations through Bibliographic Data from KCI-Indexed Journals, 2008-2021)", *사회와이론*, (2023)
 
 **김병준**, 전봉관, "민족, 국민, 국가－시계열 워드 임베딩을 활용한 조선일보 기사의 민족 담론 의미 변동 추적(1920~40)－(Minjok, Gungmin, Gukga －Tracking Changes in the Meaning of National Discourse in Chosun Ilbo Articles Using Dynamic Word Embedding (1920-40))", *현대소설연구*, (2023) <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11447796" target="_blank">Link</a>
 
