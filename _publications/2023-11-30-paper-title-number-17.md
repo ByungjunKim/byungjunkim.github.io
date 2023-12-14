@@ -2,7 +2,7 @@
 title: "Portraits of Foucault in the Realm of Korean Modern Literature: Tracing Changes in Foucault Citations through Bibliographic Data from KCI-Indexed Journals, 2008-2021<br>(푸코의 초상 - 한국 현대문학 학술장의 푸코 인용 양상 변화, 2008-2021 KCI 등재 학술지 논문 참고문헌 데이터를 중심으로)"
 collection: publications
 permalink: /publication/2023-11-30-paper-title-number-17
-excerpt: "This study sought to elucidate the role of Michel Foucault's writings in contemporary Korean literary scholarship by tracing the citation patterns of Foucault in the Korean academic realm since the late 2000s."
+excerpt: "This study aimed to examine the role of Michel Foucault’s writings in modern Korean literary research by tracing the changes in citation patterns of his work in the Korean academic field of modern literature since the late 2000s."
 date: 2023-11-30
 venue: 'Society and Theory'
 # paperurl: 'http://byungjunkim.github.io/files/paper17.pdf'
