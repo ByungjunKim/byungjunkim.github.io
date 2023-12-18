@@ -8,6 +8,8 @@ venue: 'Society and Theory'
 # paperurl: 'http://byungjunkim.github.io/files/paper17.pdf'
 citation: "<b>Byungjun Kim</b>, Yeseul Huh, Joo Chan Choi, Jinseok Choi. (2023). &quot;Portraits of Foucault in the Realm of Korean Modern Literature: Tracing Changes in Foucault Citations through Bibliographic Data from KCI-Indexed Journals, 2008-2021.&quot; <i>Society and Theory</i>. 46."
 ---
+[Github](https://github.com/ByungjunKim/FoucaultKoreanLiterature)  
+[Download paper here](http://byungjunkim.github.io/files/paper17.pdf)
 
 ## Abstract
 This study aimed to examine the role of Michel Foucault's writings in modern Korean literary research by tracing the changes in citation patterns of his work in the Korean academic field of modern literature since the late 2000s. The methodology included statistical analysis, structural topic modeling, and qualitative analysis of actual citations. The findings are as follows:
