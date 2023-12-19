@@ -8,6 +8,7 @@ venue: 'Society and Theory'
 # paperurl: 'http://byungjunkim.github.io/files/paper17.pdf'
 citation: "<b>Byungjun Kim</b>, Yeseul Huh, Joo Chan Choi, Jinseok Choi. (2023). &quot;Portraits of Foucault in the Realm of Korean Modern Literature: Tracing Changes in Foucault Citations through Bibliographic Data from KCI-Indexed Journals, 2008-2021.&quot; <i>Society and Theory</i>. 46."
 ---
+[Online link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003024464)  
 [Github](https://github.com/ByungjunKim/FoucaultKoreanLiterature)  
 [Download paper here](http://byungjunkim.github.io/files/paper17.pdf)
 
