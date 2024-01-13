@@ -5,7 +5,7 @@ type: "Workshop"
 permalink: /teaching/2023-winter-teaching-7
 venue: "Center for Digital Humanities & Computational Social Sciences, KAIST"
 date: 2023-01-01
-location: "Seoul, Republic of Korea"
+location: "Daejeon, Republic of Korea"
 ---
 
 The course encompasses the field of Computational Literary Studies, which use quantitative methodologies to gain insights into the realm of literature.
