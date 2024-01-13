@@ -1,5 +1,5 @@
 ---
-title: "Modern Korean Subwords and Dynamic Word Embedding<br>(근대 한국어 서브워드와 시계열 워드 임베딩	)"
+title: "Modern Korean Subwords and Dynamic Word Embedding<br>(근대 한국어 서브워드와 시계열 워드 임베딩)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2024-winter-teaching-9
