@@ -28,6 +28,8 @@ Education
 
 Selected Publications
 ======
+(Accepted) **Byungjun Kim**, Soeun Yang, Hana Kim, "Voices of Transitions: Korea’s Online News Media and User Comments on the Energy Transition", *ENERGY POLICY*, (2024)
+
 Jieun Song, **Byungjun Kim**, Minjeong Kim, Paul Iverson, "The Korean Speech Recognition Sentences: A Large Corpus for Evaluating Semantic Context and Language Experience in Speech Perception", *JOURNAL OF SPEECH, LANGUAGE, AND HEARING RESEARCH*, (2023) <a href="https://doi.org/10.1044/2023_JSLHR-23-00137" target="_blank">Link</a>
 
 Yerin Kim, **Byungjun Kim**, Minhyung Park, Woomin Nam, Jang Hyun Kim, "A Soft Power Challenge, or an Opportunity? A Big Data analysis on Chinese Soft Power During COVID-19 Pandemic", *FOREIGN POLICY ANALYSIS*, (2023) <a href=" https://doi.org/10.1093/fpa/orad011" target="_blank">Link</a>
