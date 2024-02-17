@@ -29,7 +29,7 @@ Education
 
 Selected Publications
 ======
-(Accepted) **Byungjun Kim**, Soeun Yang, Hana Kim, "Voices of Transitions: Korea’s Online News Media and User Comments on the Energy Transition", *ENERGY POLICY*, (2024)
+**Byungjun Kim**, Soeun Yang, Hana Kim, "Voices of Transitions: Korea’s Online News Media and User Comments on the Energy Transition", *ENERGY POLICY*, (2024) <a href="https://doi.org/10.1016/j.enpol.2024.114020" target="_blank">Link</a>
 
 Jieun Song, **Byungjun Kim**, Minjeong Kim, Paul Iverson, "The Korean Speech Recognition Sentences: A Large Corpus for Evaluating Semantic Context and Language Experience in Speech Perception", *JOURNAL OF SPEECH, LANGUAGE, AND HEARING RESEARCH*, (2023) <a href="https://doi.org/10.1044/2023_JSLHR-23-00137" target="_blank">Link</a>
 
