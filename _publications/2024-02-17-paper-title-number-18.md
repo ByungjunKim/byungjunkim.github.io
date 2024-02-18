@@ -17,4 +17,4 @@ It is important to understand stakeholders' attitudes toward energy transition p
 
 ![Emotion classification of comments on energy transition news](http://byungjunkim.github.io/files/figures/paper18_fig1.png "Emotion classification of comments on energy transition news")  
 
-![Current condemning emotion prediction model](http://byungjunkim.github.io/files/figures/paper18_fig2.png "Current condemning emotion prediction model")
+![Current condemning emotion prediction model](http://byungjunkim.github.io/files/figures/paper18_fig2.jpg "Current condemning emotion prediction model")
