@@ -16,7 +16,7 @@ Digital Humanities, Computational Social Science, Data Science, Natural Language
 
 Academic Positions
 ======
-2024 -  CLS INFRA Fellowship, Trier Center for Digital Humanities, Universität Trier.  
+2024 -  <a href="https://clsinfra.io/opportunities/tnafellowships/" target="_blank">CLS INFRA Fellowship</a>, <a href="https://tcdh.uni-trier.de/en" target="_blank">Trier Center for Digital Humanities</a>, Universität Trier.  
 2023 -  Research Assistant Professor, Center for Digital Humanities and Computational Social Sciences, KAIST.  
 2021 ~ 2022 Research Associate, Center for Digital Humanities and Computational Social Sciences, KAIST.  
 2020 ~ 2021 Part-time Lecturer, College of Liberal Arts, Sungkyunkwan University.
