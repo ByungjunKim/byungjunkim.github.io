@@ -3,7 +3,7 @@ title: "Digital Korean Language and Literature Research Methodology 1<br>(디지
 collection: teaching
 type: "Graduate Major Courses"
 permalink: /teaching/2024-spring-teaching-11
-venue: "Department of Korean Language & Literature, Sungkyunkwan University, Sungkyunkwan University"
+venue: "Department of Korean Language & Literature, Sungkyunkwan University"
 date: 2024-03-01
 location: "Seoul, Republic of Korea"
 ---
