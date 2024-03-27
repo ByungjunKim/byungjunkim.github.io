@@ -1,11 +1,11 @@
 ---
 title: "Social Network Analysis for Digital Humanities<br>(인문연결망분석)"
 collection: teaching
-type: "Graduate Courses"
+type: "Graduate Major Courses"
 permalink: /teaching/2024-winter-teaching-10
 venue: "Major in Design·Digital Arts & Humanities, Hallym University"
 date: 2024-02-01
-location: "Seoul, Republic of Korea"
+location: "Chuncheon, Republic of Korea"
 ---
 
 This class covers the application of social network analysis to the digital humanities.
