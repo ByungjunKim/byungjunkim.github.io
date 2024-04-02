@@ -1,12 +1,12 @@
 ---
-title: "Coming of platform society : the challenge of digital platform and its impact on social order<br>(플랫폼 사회가 온다: 디지털 플랫폼의 도전과 사회질서의 재편)"
+title: "Coming of Platform Society: The Challenge of Digital Platform and Its Impact on Social Order<br>(플랫폼 사회가 온다: 디지털 플랫폼의 도전과 사회질서의 재편)"
 collection: publications
 permalink: /publication/2021-06-01-book-title-number-2
 excerpt: "This book is the result of a collaborative research project centered on the Korean Sociological Association to comprehensively explore various issues raised by the platform society."
 date: 2021-06-01
 venue: 'Hanul Academy'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
-citation: "Jaeyeal Lee, Sangeung Ha, Dongkyun Lim, Wonjae lee, <b>Byungjun Kim</b>, Euna Cho, Junghan Kang, Hoyoung Lee, and Joon Han. (2021). &quot;플랫폼 사회가 온다: 디지털 플랫폼의 도전과 사회질서의 재편(Coming of platform society : the challenge of digital platform and its impact on social order).&quot; <i>Hanul Academy</i>."
+citation: "Jaeyeal Lee, Sangeung Ha, Dongkyun Lim, Wonjae lee, <b>Byungjun Kim</b>, Euna Cho, Junghan Kang, Hoyoung Lee, and Joon Han. (2021). &quot;플랫폼 사회가 온다: 디지털 플랫폼의 도전과 사회질서의 재편(Coming of Platform Society: The Challenge of Digital Platform and Its Impact on Social Order).&quot; <i>Hanul Academy</i>."
 ---
 [Online link](https://www.riss.kr/link?id=M15859343)  
 
