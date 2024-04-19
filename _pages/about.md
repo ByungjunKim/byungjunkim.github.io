@@ -29,6 +29,10 @@ Education
 
 Selected Publications
 ======
+(Forthcoming) Seojoon Lee, **Byungjun Kim**, Bong Gwan Jun, "Automatic Four-Panel Cartoon Detection in Korean Digitized Newspapers using Deep Learning", *JOURNAL OF OPEN HUMANITIES DATA*, (2024)
+
+(Forthcoming) Jonghyun Jee, **Byungjun Kim**, Bong Gwan Jun, "The Role of English Wikipedia in Mediating East Asian Historical Disputes: The Case of Balhae", *ASIAN JOURNAL OF COMMUNICATION*, (2024)
+
 **Byungjun Kim**, Soeun Yang, Hana Kim, "Voices of Transitions: Korea’s Online News Media and User Comments on the Energy Transition", *ENERGY POLICY*, (2024) <a href="https://doi.org/10.1016/j.enpol.2024.114020" target="_blank">Link</a>
 
 Jieun Song, **Byungjun Kim**, Minjeong Kim, Paul Iverson, "The Korean Speech Recognition Sentences: A Large Corpus for Evaluating Semantic Context and Language Experience in Speech Perception", *JOURNAL OF SPEECH, LANGUAGE, AND HEARING RESEARCH*, (2023) <a href="https://doi.org/10.1044/2023_JSLHR-23-00137" target="_blank">Link</a>
