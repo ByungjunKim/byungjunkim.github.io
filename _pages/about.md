@@ -29,8 +29,8 @@ Education
 
 Selected Publications
 ======
-(Forthcoming) Seojoon Lee, **Byungjun Kim**, Bong Gwan Jun, "Automatic Detection of Four-Panel Cartoon in Large-Scale
-Korean Digitized Newspapers using Deep Learning", *JOURNAL OF OPEN HUMANITIES DATA*, (2024)
+Seojoon Lee, **Byungjun Kim**, Bong Gwan Jun, "Automatic Detection of Four-Panel Cartoon in Large-Scale
+Korean Digitized Newspapers using Deep Learning", *JOURNAL OF OPEN HUMANITIES DATA*, (2024), <a href="https://doi.org/10.5334/johd.205" target="_blank">Link</a>
 
 Jonghyun Jee, **Byungjun Kim**, Bong Gwan Jun, "The Role of English Wikipedia in Mediating East Asian Historical Disputes: The Case of Balhae", *ASIAN JOURNAL OF COMMUNICATION*, (2024),  <a href="https://doi.org/10.1080/01292986.2024.2342822" target="_blank">Link</a>
 
