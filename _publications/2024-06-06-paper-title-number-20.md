@@ -2,7 +2,7 @@
 title: "Automatic Detection of Four-Panel Cartoon in Large-Scale Korean Digitized Newspapers using Deep Learning"
 collection: publications
 permalink: /publication/2024-06-06-paper-title-number-20
-excerpt: "This research paper presents a novel computational FPC detection mechanism: the development of the YOLOv5_FPC model, via fine-tuning the You Only Look Once Version 5 (YOLOv5) deep learning model, tailored precisely for FPC image detection."
+excerpt: "We applied our YOLOv5_FPC model to the Chosun Ilbo News Library archive (1920–1940) for automatic FPC data mining, spanning 47,777 JPG image files. We identified 1040 FPC objects within 1035 files, which include previously undiscovered FPCs by previous researchers."
 date: 2024-06-06
 venue: 'Journal of Open Humanities Data'
 # paperurl: 'http://byungjunkim.github.io/files/paper17.pdf'
