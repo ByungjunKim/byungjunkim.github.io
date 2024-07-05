@@ -7,7 +7,7 @@ venue: "College of Liberal Arts, Korea University"
 date: 2023-09-01
 location: "Seoul, Republic of Korea"
 ---
-
+[Best Courses at Korea University]  
 This course will introduce the research practice of computational literary studies and apply quantitative methods to literary works and literary history.
 
 ## Semester
