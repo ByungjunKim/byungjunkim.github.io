@@ -2,11 +2,11 @@
 title: "The Future of Digital Humanities, Smart Big Data: A Postscript from a Research Fellowship at Trier Center for Digital Humanities in Germany<br>(디지털인문학의 미래, 스마트 빅데이터: 독일 트리어 디지털인문학 센터 CLS 연구 펠로우 후기)"
 collection: publications
 permalink: /publication/2024-06-30-paper-title-number-21
-excerpt: "This paper proposes the concept of "smart big data" in Digital Humanities, combining the scale of big data with qualitative excellence, as a response to the growing but quality-limited use of big data in Korean DH research. It also emphasizes the importance of international DH experience and the need for context-specific adaptations in Korean humanities."
+excerpt: "This paper proposes the concept of 'smart big data' in Digital Humanities, combining the scale of big data with qualitative excellence, as a response to the growing but quality-limited use of big data in Korean DH research. It also emphasizes the importance of international DH experience and the need for context-specific adaptations in Korean humanities."
 date: 2024-06-30
 venue: 'Digital+Humanities'
 # paperurl: 'http://byungjunkim.github.io/files/paper17.pdf'
-citation: "<b>Kim, B</b>. (2024). The Future of Digital Humanities, Smart Big Data: A Postscript from a Research Fellowship at Trier Center for Digital Humanities in Germany. Digital+Humanities, 30, 57–70. https://doi.org/10.5281/zenodo.13293696"
+citation: "<b>Kim, B</b>. (2024). The Future of Digital Humanities, Smart Big Data: A Postscript from a Research Fellowship at Trier Center for Digital Humanities in Germany. <i>Digital+Humanities</i>, 30, 57–70. https://doi.org/10.5281/zenodo.13293696"
 ---
 [Online link](https://doi.org/10.5281/zenodo.13293696)  
 [Download paper here](http://byungjunkim.github.io/files/paper21.pdf)
