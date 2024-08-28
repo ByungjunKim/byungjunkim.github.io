@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant professor at the <a href="https://dhcss.kaist.ac.kr/" target="_blank">Center for Digital Humanities and Computational Social Sciences</a>, Korea Advanced Institute of Science and Technology (<a href="https://www.kaist.ac.kr/en/" target="_blank">KAIST</a>). I am interested in data science-based research in the humanities and social sciences. Please refer to my <a href="http://byungjunkim.github.io/files/ByungjunKim_CV.pdf" target="_blank">CV</a> for detailed research history. All my research and teaching history can be found in the <a href="http://byungjunkim.github.io/publications/" target="_blank">Publications</a>, <a href="http://byungjunkim.github.io/talks/" target="_blank">Talks</a>, and <a href="http://byungjunkim.github.io/teaching/" target="_blank">Teaching</a>. Since 2022, I have held positions on both the board of directors and editorial board of <a href="https://www.kadh.org/" target="_blank">Korean Association for Digital Humanities(KADH)</a>.
+I am an Assistant Professor at the <a href="https://grad.aks.ac.kr/com/cmm/EgovContentView.do?menuNo=3010126000&lang=eng" target="_blank">Department of Cultural Informatics</a>, Graduate School of Korean Studies, The Academy of Korean Studies, starting from September 2024. Prior to this position, I served as a Research Assistant Professor at the <a href="https://dhcss.kaist.ac.kr/" target="_blank">Center for Digital Humanities and Computational Social Sciences</a>, Korea Advanced Institute of Science and Technology (<a href="https://www.kaist.ac.kr/en/" target="_blank">KAIST</a>).
+
+My research interests lie in data science-based approaches in the humanities and social sciences. Please refer to my <a href="http://byungjunkim.github.io/files/ByungjunKim_CV.pdf" target="_blank">CV</a> for detailed research history. All my research and teaching history can be found in the <a href="http://byungjunkim.github.io/publications/" target="_blank">Publications</a>, <a href="http://byungjunkim.github.io/talks/" target="_blank">Talks</a>, and <a href="http://byungjunkim.github.io/teaching/" target="_blank">Teaching</a>. Since 2022, I have held positions on both the board of directors and editorial board of the <a href="https://www.kadh.org/" target="_blank">Korean Association for Digital Humanities (KADH)</a>.
 
 Research Interest Keywords
 ======
@@ -16,10 +18,11 @@ Digital Humanities, Computational Social Science, Data Science, Natural Language
 
 Academic Positions
 ======
-2024 -  <a href="https://clsinfra.io/opportunities/tnafellowships/" target="_blank">CLS INFRA Fellowship</a>, <a href="https://tcdh.uni-trier.de/en" target="_blank">Trier Center for Digital Humanities</a>, Universität Trier.  
-2023 -  Research Assistant Professor, Center for Digital Humanities and Computational Social Sciences, KAIST.  
-2021 ~ 2022 Research Associate, Center for Digital Humanities and Computational Social Sciences, KAIST.  
-2020 ~ 2021 Part-time Lecturer, College of Liberal Arts, Sungkyunkwan University.
+Sep 2024 - Present  Assistant Professor, Department of Cultural Informatics, Graduate School of Korean Studies, The Academy of Korean Studies.
+Jan 2023 - Aug 2024  Research Assistant Professor, Center for Digital Humanities and Computational Social Sciences, KAIST.  
+Mar 2024 - May 2024  <a href="https://clsinfra.io/opportunities/tnafellowships/" target="_blank">CLS INFRA Fellowship</a>, <a href="https://tcdh.uni-trier.de/en" target="_blank">Trier Center for Digital Humanities</a>, Universität Trier.  
+2021 - 2022 Research Associate, Center for Digital Humanities and Computational Social Sciences, KAIST.  
+2020 - 2021 Part-time Lecturer, College of Liberal Arts, Sungkyunkwan University.
 
 Education
 ======
