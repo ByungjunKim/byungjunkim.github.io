@@ -23,4 +23,4 @@ This study contributes to the field by systematically analyzing trends in webtoo
 
 ![주요 대분류의 관련 논문 발행 추이 (의약학, 자연과학 대분류 제외)](http://byungjunkim.github.io/files/figures/paper22_fig1.png "주요 대분류의 관련 논문 발행 추이 (의약학, 자연과학 대분류 제외)")  
 
-![전문 학술지와 기타 학술지 변수에 따른 토픽 분화](http://byungjunkim.github.io/files/figures/paper22_fig2.jpg "전문 학술지와 기타 학술지 변수에 따른 토픽 분화")
+![전문 학술지와 기타 학술지 변수에 따른 토픽 분화](http://byungjunkim.github.io/files/figures/paper22_fig2.png "전문 학술지와 기타 학술지 변수에 따른 토픽 분화")
