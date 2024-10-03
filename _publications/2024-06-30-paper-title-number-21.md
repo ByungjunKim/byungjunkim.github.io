@@ -6,7 +6,7 @@ excerpt: "This paper proposes the concept of 'smart big data' in Digital Humanit
 date: 2024-06-30
 venue: 'Digital+Humanities'
 # paperurl: 'http://byungjunkim.github.io/files/paper17.pdf'
-citation: "<b>Kim, B</b>. (2024). The Future of Digital Humanities, Smart Big Data: A Postscript from a Research Fellowship at Trier Center for Digital Humanities in Germany. <i>Digital+Humanities</i>, 30, 57–70. https://doi.org/10.5281/zenodo.13293696"
+citation: "<b>Kim, B</b>. (2024). The Future of Digital Humanities, Smart Big Data: A Postscript from a Research Fellowship at Trier Center for Digital Humanities in Germany. <i>Digital+Humanities</i>. 30. 57–70. https://doi.org/10.5281/zenodo.13293696"
 ---
 [Online link](https://doi.org/10.5281/zenodo.13293696)  
 [Download paper here](http://byungjunkim.github.io/files/paper21.pdf)

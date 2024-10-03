@@ -6,7 +6,7 @@ excerpt: "We applied our YOLOv5_FPC model to the Chosun Ilbo News Library archiv
 date: 2024-06-06
 venue: 'Journal of Open Humanities Data'
 # paperurl: 'http://byungjunkim.github.io/files/paper17.pdf'
-citation: "Lee, S., <b>Kim, B.</b>, & Jun, B. G. (2024). Automatic Detection of Four-Panel Cartoon in Large-Scale Korean Digitized Newspapers using Deep Learning. <i>Journal of Open Humanities Data</i>, 10: 36, pp. 1–15."
+citation: "Lee, S., <b>Kim, B.</b>, & Jun, B. G. (2024). Automatic Detection of Four-Panel Cartoon in Large-Scale Korean Digitized Newspapers using Deep Learning. <i>Journal of Open Humanities Data</i>. 10: 36. pp. 1–15."
 ---
 [Online link](https://doi.org/10.5334/johd.205)  
 [Download paper here](http://byungjunkim.github.io/files/paper20.pdf)
