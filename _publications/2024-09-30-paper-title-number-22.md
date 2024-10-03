@@ -1,12 +1,12 @@
 ---
-title: "The Expansion and Diversification of Webtoon-Related Research in the Korean Academic Field A Structural Topic Modeling Based on KCI Paper Bibliographic Data from 2003 to 2023<br>(한국 학술장 내 웹툰 관련 연구의 확장과 분화 KCI 논문 서지 데이터 기반 구조적 토픽 모델링 분석, 2003∼2023)"
+title: "The Expansion and Diversification of Webtoon-Related Research in the Korean Academic Field: A Structural Topic Modeling Based on KCI Paper Bibliographic Data from 2003 to 2023<br>(한국 학술장 내 웹툰 관련 연구의 확장과 분화: KCI 논문 서지 데이터 기반 구조적 토픽 모델링 분석, 2003∼2023)"
 collection: publications
 permalink: /publication/2024-09-30-paper-title-number-22
 excerpt: "This study analyzes the expansion and diversification of webtoon-related research in the Korean academic field, focusing on articles published in Korea Citation Index (KCI) journals from 2003 to 2023. Employing a digital humanities approach, we collected and preprocessed bibliographic information from 670 papers and conducted a structural topic modeling analysis."
 date: 2024-09-30
 venue: 'The Korean Journal of Animation'
 # paperurl: 'http://byungjunkim.github.io/files/paper17.pdf'
-citation: "Lee, Y, and <b>Kim, B</b>. (2024). The Expansion and Diversification of Webtoon-Related Research in the Korean Academic Field A Structural Topic Modeling Based on KCI Paper Bibliographic Data from 2003 to 2023. <i>The Korean Journal of Animation</i>, 20(3), 80–104. https://doi.org/10.51467/ASKO.2024.09.20.3.80"
+citation: "Lee, Y, and <b>Kim, B</b>. (2024). The Expansion and Diversification of Webtoon-Related Research in the Korean Academic Field: A Structural Topic Modeling Based on KCI Paper Bibliographic Data from 2003 to 2023. <i>The Korean Journal of Animation</i>, 20(3), 80–104. https://doi.org/10.51467/ASKO.2024.09.20.3.80"
 ---
 [Online link](https://doi.org/10.51467/ASKO.2024.09.20.3.80)  
 [Download paper here](http://byungjunkim.github.io/files/paper22.pdf)
