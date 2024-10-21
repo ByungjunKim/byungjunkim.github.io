@@ -9,7 +9,9 @@ venue: 'Humanities Contents'
 citation: "Jang, W, <b>Kim, B</b>, and Jun.B. (2024). Narrative Structure and Cultural-Historical Significance of ‘Meongteongguri’, Korea’s First Serialized Newspaper Comic. <i>Humanities Contents</i>. 74. 231–263."
 ---
 [Online link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003129130)  
+[Online database](https://archive.chosun.com/cartoon/toon.html)    
 [Download paper here](http://byungjunkim.github.io/files/paper23.pdf)
+
 
 ## Abstract
 This study examines the narrative characteristics and cultural-historical significance of “Meongteongguri”, Korea’s first long-running comic series published in the Chosun Ilbo from 1924 to 1933. The research team utilized deep learning technology to accurately identify bibliographic information and collect 743 episodes of the series. Subsequently, based on the series’ creative methods and narrative structure, we analyzed the zeitgeist and cultural landscape of colonial Korea as reflected in specific episodes.
