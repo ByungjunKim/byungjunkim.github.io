@@ -8,7 +8,7 @@ venue: 'Humanities Contents'
 # paperurl: 'http://byungjunkim.github.io/files/paper17.pdf'
 citation: "Jang, W, <b>Kim, B</b>, and Jun.B. (2024). Narrative Structure and Cultural-Historical Significance of ‘Meongteongguri’, Korea’s First Serialized Newspaper Comic. <i>Humanities Contents</i>. 74. 231–263."
 ---
-[Online link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003129130)  
+[Online link](https://doi.org/10.18658/humancon.2024.09.231)  
 [Online database](https://archive.chosun.com/cartoon/toon.html)    
 [Download paper here](http://byungjunkim.github.io/files/paper23.pdf)
 
