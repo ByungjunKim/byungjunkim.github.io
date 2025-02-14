@@ -39,13 +39,13 @@ Jonghyun Jee, **Byungjun Kim**, Bong Gwan Jun, "The Role of English Wikipedia in
 
 **Byungjun Kim**, Soeun Yang, Hana Kim, "Voices of Transitions: Korea’s Online News Media and User Comments on the Energy Transition", *ENERGY POLICY*, (2024) <a href="https://doi.org/10.1016/j.enpol.2024.114020" target="_blank">Link</a>
 
-Jieun Song, **Byungjun Kim**, Minjeong Kim, Paul Iverson, "The Korean Speech Recognition Sentences: A Large Corpus for Evaluating Semantic Context and Language Experience in Speech Perception", *JOURNAL OF SPEECH, LANGUAGE, AND HEARING RESEARCH*, (2023) <a href="https://doi.org/10.1044/2023_JSLHR-23-00137" target="_blank">Link</a>
-
 Yerin Kim, **Byungjun Kim**, Minhyung Park, Woomin Nam, Jang Hyun Kim, "A Soft Power Challenge, or an Opportunity? A Big Data analysis on Chinese Soft Power During COVID-19 Pandemic", *FOREIGN POLICY ANALYSIS*, (2023) <a href=" https://doi.org/10.1093/fpa/orad011" target="_blank">Link</a>
 
 Kyeo Re Lee, Jang Hyun Kim, Jayeon Jang, Jeewoo Yoon, Dongyan Nan, Yonghwan Kim, **<U>Byungjun Kim</U>**, "News big data analysis of international start-up innovation discourses through topic modelling and network analysis: comparing East Asia and North America", *ASIAN JOURNAL OF TECHNOLOGY INNOVATION*, (2022) <a href="https://doi.org/10.1080/19761597.2022.2134154" target="_blank">Link</a>
 
 **Byungjun Kim**, Minjoo Yoo, Keon Chul Park, Kyeo Re Lee, Jang Hyun Kim, "A value of civic voices for smart city: A big data analysis of civic queries posed by Seoul citizens", *CITIES*, (2021) <a href="https://doi.org/10.1016/j.cities.2020.102941" target="_blank">Link</a>
+
+전봉관, 장우리, 이서준, **김병준**, "멍텅구리 : 한국 최초 신문 연재 네컷만화로 100년 전 날것의 식민지 조선을 보다 (Meongteongguri: A Raw Look at Colonial Joseon 100 Years Ago Through Korea’s First Newspaper-Serialized Four-Panel Comic)", *더숲*, (2024) <a href="https://www.riss.kr/link?id=M17138304" target="_blank">Link</a>
 
 **김병준**, 허예슬, 최주찬, 최진석, "푸코의 초상 - 한국 현대문학 학술장의 푸코 인용 양상 변화, 2008-2021 KCI 등재 학술지 논문 참고문헌 데이터를 중심으로 (Portraits of Foucault in the Realm of Korean Modern Literature: Tracing Changes in Foucault Citations through Bibliographic Data from KCI-Indexed Journals, 2008-2021)", *사회와이론*, (2023) <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003024464" target="_blank">Link</a>
 
