@@ -47,8 +47,6 @@ Kyeo Re Lee, Jang Hyun Kim, Jayeon Jang, Jeewoo Yoon, Dongyan Nan, Yonghwan Kim,
 
 전봉관, 장우리, 이서준, **김병준**, "멍텅구리 : 한국 최초 신문 연재 네컷만화로 100년 전 날것의 식민지 조선을 보다 (Meongteongguri: A Raw Look at Colonial Joseon 100 Years Ago Through Korea’s First Newspaper-Serialized Four-Panel Comic)", *더숲*, (2024) <a href="https://www.riss.kr/link?id=M17138304" target="_blank">Link</a>
 
-**김병준**, 허예슬, 최주찬, 최진석, "푸코의 초상 - 한국 현대문학 학술장의 푸코 인용 양상 변화, 2008-2021 KCI 등재 학술지 논문 참고문헌 데이터를 중심으로 (Portraits of Foucault in the Realm of Korean Modern Literature: Tracing Changes in Foucault Citations through Bibliographic Data from KCI-Indexed Journals, 2008-2021)", *사회와이론*, (2023) <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003024464" target="_blank">Link</a>
-
 **김병준**, 전봉관, "민족, 국민, 국가－시계열 워드 임베딩을 활용한 조선일보 기사의 민족 담론 의미 변동 추적(1920~40)－(Minjok, Gungmin, Gukga －Tracking Changes in the Meaning of National Discourse in Chosun Ilbo Articles Using Dynamic Word Embedding (1920-40))", *현대소설연구*, (2023) <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11447796" target="_blank">Link</a>
 
 전준, **김병준**, 김재홍, 김란우, "전산사회과학 연구과정의 블랙박스 열기: 아카데믹 데이터베이스를 활용한 비교사회학 연구를 중심으로(Opening the Blackbox of Computational Social Science Research Process: A Case of Comparative Study of Social Science Academia)", *한국사회학*, (2023) <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002967055" target="_blank">Link</a>
