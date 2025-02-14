@@ -3,7 +3,7 @@ title: "Meongteongguri: A Raw Look at Colonial Joseon 100 Years Ago Through Kore
 collection: publications
 permalink: /publication/2024-12-31-book-title-number-2
 excerpt: "The book comprises a compilation of essays authored by 13 researchers, along by their corresponding debates organized into six thematic categories. It can be asserted without hyperbole that this publication serves as a comprehensive and foundational resource for delving into the realm of digital Korean literature."
-date: 2023-02-28
+date: 2024-12-31
 venue: '더숲'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
 citation: "Jeon, B., Jang, U., Lee, S., & Kim, B. (2024). 멍텅구리 : 한국 최초 신문 연재 네컷만화로 100년 전 날것의 식민지 조선을 보다(Meongteongguri: A Raw Look at Colonial Joseon 100 Years Ago Through Korea’s First Newspaper-Serialized Four-Panel Comic). <i>더숲</i>."
