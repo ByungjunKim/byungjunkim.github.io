@@ -1,5 +1,5 @@
 ---
-title: "Design and Implementation of a Subword-based Morphological Analyzer for Modern Sino-Korean Mixed Texts<br>(근대 국한문혼용체 자료 서브워드 기반 형태소 분석기의설계와 적용)"
+title: "Design and Implementation of a Subword-based Morphological Analyzer for Modern Sino-Korean Mixed Texts<br>(근대 국한문혼용체 자료 서브워드 기반 형태소 분석기의 설계와 적용)"
 collection: publications
 permalink: /publication/2024-11-30-paper-title-number-24
 excerpt: "This study proposes the design and implementation of a subword-based morphological analyzer for automated analysis of modern Sino-Korean mixed texts. Current large-scale modern literature databases are difficult to process effectively with existing morphological analyzers due to their characteristics of mixed Sino-Korean characters and archaic Korean."
