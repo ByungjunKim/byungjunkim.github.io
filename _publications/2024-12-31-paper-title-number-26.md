@@ -6,7 +6,7 @@ excerpt: "Utilizing digital methodologies such as an ELECTRA-based semantic clas
 date: 2024-12-31
 venue: 'DAEDONG MUNHWA YEON'GU'
 # paperurl: 'http://byungjunkim.github.io/files/paper17.pdf'
-citation: "Seo, J., Ha, N., Kim, M., Han, J., Kim, B., & Park, S. (2024). Distant Reading on ‘Jeohui’ ― A study on the diachronic changes of two types of ‘Jeohui’ applying an ELECTRA-based semantic classification model and N-gram analysis. <i>Daedong Munhwa Yeon'gu</i>, 128, 513–548. https://doi.org/10.18219/ddmh..128.202412.513"
+citation: "Seo, J., Ha, N., Kim, M., Han, J., Kim, B., & Park, S. (2024). Distant Reading on ‘Jeohui’ ― A study on the diachronic changes of two types of ‘Jeohui’ applying an ELECTRA-based semantic classification model and N-gram analysis. <i>Daedong Munhwa Yeon'gu, 128</i>, 513–548. https://doi.org/10.18219/ddmh..128.202412.513"
 
 
 ---
