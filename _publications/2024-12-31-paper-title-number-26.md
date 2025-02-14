@@ -6,7 +6,7 @@ excerpt: "Previous research has shown that the academic landscape of the 2010s l
 date: 2024-12-31
 venue: 'CONCEPT AND COMMUNICATION'
 # paperurl: 'http://byungjunkim.github.io/files/paper17.pdf'
-citation: "Choi, J., Choi, S., Kim, B., Huh, Y., Choi, J., & Hwang, H. (2024). Dual perspectives on Wansuh Park — A digital analysis explores institutional and gender studies. Concept and Communication, 34, 131–175. https://doi.org/10.15797/concom.2024..34.004"
+citation: "Choi, J., Choi, S., Kim, B., Huh, Y., Choi, J., & Hwang, H. (2024). Dual perspectives on Wansuh Park — A digital analysis explores institutional and gender studies. <i>Concept and Communication</i>, 34, 131–175. https://doi.org/10.15797/concom.2024..34.004"
 
 
 ---
