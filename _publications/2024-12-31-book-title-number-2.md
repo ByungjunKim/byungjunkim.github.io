@@ -2,7 +2,7 @@
 title: "Meongteongguri: A Raw Look at Colonial Joseon 100 Years Ago Through Korea’s First Newspaper-Serialized Four-Panel Comic<br>(멍텅구리 : 한국 최초 신문 연재 네컷만화로 100년 전 날것의 식민지 조선을 보다)"
 collection: publications
 permalink: /publication/2024-12-31-book-title-number-2
-excerpt: "The book comprises a compilation of essays authored by 13 researchers, along by their corresponding debates organized into six thematic categories. It can be asserted without hyperbole that this publication serves as a comprehensive and foundational resource for delving into the realm of digital Korean literature."
+excerpt: "'Meongteongguri' is Korea's first newspaper-serialized four-panel comic, meticulously restored a century later through the combined efforts of KAIST digital humanities researchers employing deep learning technology and rigorous historical verification."
 date: 2024-12-31
 venue: '더숲'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
