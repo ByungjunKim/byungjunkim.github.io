@@ -1,5 +1,5 @@
 ---
-title: "How Will Generative AI Change Humanities Research? —<br>(생성형 AI는 인문학 연구를 어떻게 바꿀까?)"
+title: "How Will Generative AI Change Humanities Research?<br>(생성형 AI는 인문학 연구를 어떻게 바꿀까?)"
 collection: publications
 permalink: /publication/2025-02-28-paper-title-number-27
 excerpt: "This study proposes three directions: first, reestablishing the autonomous role of researchers and academic societies; second, strengthening academic publicness through open access and research data sharing; and third, developing new research models for human-AI collaboration."
