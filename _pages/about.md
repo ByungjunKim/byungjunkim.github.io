@@ -61,7 +61,7 @@ Kyeo Re Lee, Jang Hyun Kim, Jayeon Jang, Jeewoo Yoon, Dongyan Nan, Yonghwan Kim,
 
 Featured Grants & Projects
 ======
-(**PI**) "**고급 자연어 처리 및 대규모 언어 모델 기반 디지털 한국학 연구 및 교육 방법론 개발 (Development of Advanced Natural Language Processing and Large Language Model-Based Digital Korean Studies and Education Methodology)**", 2025년 1학기 연구교육연계과제, 한국학중앙연구원 (The Academy of Korean Studies), 총 연구비 1,400만원 (Total 14 million KRW), 03/2025 - 08/2025, <a href="https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=321637&bbsId=BBSMSTR_000000000082" target="_blank">Link</a>
+(**PI**) "**고급 자연어 처리 및 대규모 언어 모델 기반 디지털 한국학 연구 및 교육 방법론 개발 (Development of Advanced Natural Language Processing and Large Language Model-Based Digital Korean Studies and Education Methodology)**", 2025년 1학기 연구교육연계과제, 한국학중앙연구원 (The Academy of Korean Studies), 총 연구비 1,600만원 (Total 16 million KRW), 03/2025 - 08/2025, <a href="https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=321637&bbsId=BBSMSTR_000000000082" target="_blank">Link</a>
 
 (CO-PI) "인공지능과 사회 공진화 동역학에 대한 전산사회과학 연구 (Exploring the Co-evolutionary Dynamics of Artificial Intelligence and Society: A Computational Social Science Approach)", 글로벌인문사회융합연구지원사업(연구그룹형_국외형), 한국연구재단 (National Research Foundation of Korea), 총 연구비 6.6억원 (Total 660 million KRW), 06/2024 - 05/2027, <a href="https://www.nrf.re.kr/biz/info/info/view?menu_no=378&biz_no=590" target="_blank">Link</a>
 
