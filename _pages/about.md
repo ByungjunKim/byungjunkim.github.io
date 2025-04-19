@@ -61,6 +61,8 @@ Kyeo Re Lee, Jang Hyun Kim, Jayeon Jang, Jeewoo Yoon, Dongyan Nan, Yonghwan Kim,
 
 Featured Grants & Projects
 ======
+(**PI**) "**고급 자연어 처리 및 대규모 언어 모델 기반 디지털 한국학 연구 및 교육 방법론 개발 (Development of Advanced Natural Language Processing and Large Language Model-Based Digital Korean Studies and Education Methodology)**", 2025년 1학기 연구교육연계과제, 한국학중앙연구원 (The Academy of Korean Studies), 총 연구비 1,400만원 (Total 14 million KRW), 03/2025 - 08/2025, <a href="https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=321637&bbsId=BBSMSTR_000000000082" target="_blank">Link</a>
+
 (CO-PI) "인공지능과 사회 공진화 동역학에 대한 전산사회과학 연구 (Exploring the Co-evolutionary Dynamics of Artificial Intelligence and Society: A Computational Social Science Approach)", 글로벌인문사회융합연구지원사업(연구그룹형_국외형), 한국연구재단 (National Research Foundation of Korea), 총 연구비 6.6억원 (Total 660 million KRW), 06/2024 - 05/2027, <a href="https://www.nrf.re.kr/biz/info/info/view?menu_no=378&biz_no=590" target="_blank">Link</a>
 
 (**PI**) "**Integrative Approaches in Computational Literary Studies and Global Knowledge Structures**", CLS INFRA TNA Fellowships, European Union’s Horizon 2020 research and innovation programme, Total 7,240 EUR, 03/2024 - 05/2024, <a href="https://clsinfra.io/opportunities/tnafellowships/" target="_blank">Link</a> <a href="http://byungjunkim.github.io/files/ByungjunKim_CLS_Fellowship.png" target="_blank">Certificate</a>
@@ -70,8 +72,6 @@ Featured Grants & Projects
 (Co-PI) "디지탈 인문사회 교육 및 연구 상호 피드백 모델 (A proposed framework for reciprocal feedback between digital humanities and social sciences teaching and research)", 인문사회-디지털(SW:AI)융합 연구소 지원, 한국과학창의재단 (Korea Foundation for the Advancement of Science & Creativity), 총 연구비 4억원 (Total 400 million KRW), 06/2022 - 12/2023 <a href="https://www.kofac.re.kr/brd/board/386/L/menu/270?brdType=R&thisPage=1&bbIdx=37304" target="_blank">Link</a>
 
 (Co-PI) "디지털 전환기 노동과 고등교육의 변화 (Revolutionizing Workforce and Tertiary Education in the Era of Digital Transformation)", 2023년 디지털 메가트렌드 위탁연구, 정보통신정책연구원 (KISDI), 총 연구비 9천만원 (Total 90 million KRW), 05/2023 - 10/2023
-
-(Co-PI) "데이터 기반 스토리 공학 : 소셜 미디어 데이터를 활용한 글로벌 OTT 시청자 반응 분석 시스템 개발 (Data-driven story engineering: developing a global OTT audience response analysis system using social media data)", 2022년도 Post-AI 연구사업 2차 공모, KAIST Post-AI Institute, 총 연구비 2천만원 (Total 20 million KRW), 09/2022 - 11/2022
 
 Skills and Techniques
 ======
