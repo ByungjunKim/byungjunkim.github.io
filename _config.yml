@@ -117,7 +117,7 @@ author:
   wikipedia        :
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57219224710"
   webofscience   : "https://www.webofscience.com/wos/author/record/GSO-2273-2022"  
-
+  lab : "https://digitalhumanities.kr"
 
 # Reading Files
 include:
