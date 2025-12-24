@@ -50,7 +50,7 @@ Kim, Y., **Kim, B.**, Park, M., Nam, W., & Kim, J. H. (2023). A soft power chall
 
 류인태, 곽지은, 권기성, 김바로, **김병준**, 김지선, 박진호, 양승목, 이민철, 이재연, 장문석, 지영원, & 한희연. (2023). *디지털로 읽고 데이터로 쓰다: 디지털 한국어문학의 모색*. 박문사. <a href="http://www.riss.kr/link?id=M16738481" target="_blank">Link</a>
 
-Lee, K. R., Kim, J. H., Jang, J., Yoon, J., Nan, D., Kim, Y., & <u>**Kim, B.**</u> (2022). News big data analysis of international start-up innovation discourses through topic modelling and network analysis: Comparing East Asia and North America. *Asian Journal of Technology Innovation*. <a href="https://doi.org/10.1080/19761597.2022.2134154" target="_blank">Link</a>
+Lee, K. R., Kim, J. H., Jang, J., Yoon, J., Nan, D., Kim, Y., & **Kim, B.** (2022). News big data analysis of international start-up innovation discourses through topic modelling and network analysis: Comparing East Asia and North America. *Asian Journal of Technology Innovation*. <a href="https://doi.org/10.1080/19761597.2022.2134154" target="_blank">Link</a>
 
 **Kim, B.**, Yoo, M., Park, K. C., Lee, K. R., & Kim, J. H. (2021). A value of civic voices for smart city: A big data analysis of civic queries posed by Seoul citizens. *Cities*. <a href="https://doi.org/10.1016/j.cities.2020.102941" target="_blank">Link</a>
 
@@ -60,7 +60,7 @@ Lee, K. R., Kim, J. H., Jang, J., Yoon, J., Nan, D., Kim, Y., & <u>**Kim, B.**</
 
 Featured Grants & Projects
 ======
-(**PI**) "**인문 데이터 설계 교육을 위한 한국 근현대 문학 TEI/XML 구축 방법론 연구 (TEI/XML Construction Methodology for Korean Modern Literature in Humanities Data Design Education)**", 2025년 2학기 연구교육연계과제, 한국학중앙연구원 (The Academy of Korean Studies), 총 연구비 1,600만원 (Total 16 million KRW), 03/2025 - 08/2025, `<a href="https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=322275&bbsId=BBSMSTR_000000000082" target="_blank">`Link`</a>`
+(**PI**) "**인문 데이터 설계 교육을 위한 한국 근현대 문학 TEI/XML 구축 방법론 연구 (TEI/XML Construction Methodology for Korean Modern Literature in Humanities Data Design Education)**", 2025년 2학기 연구교육연계과제, 한국학중앙연구원 (The Academy of Korean Studies), 총 연구비 1,600만원 (Total 16 million KRW), 03/2025 - 08/2025, <a href="https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=322275&bbsId=BBSMSTR_000000000082" target="_blank">Link</a>
 
 (**PI**) "**고급 자연어 처리 및 대규모 언어 모델 기반 디지털 한국학 연구 및 교육 방법론 개발 (Development of Advanced Natural Language Processing and Large Language Model-Based Digital Korean Studies and Education Methodology)**", 2025년 1학기 연구교육연계과제, 한국학중앙연구원 (The Academy of Korean Studies), 총 연구비 1,600만원 (Total 16 million KRW), 03/2025 - 08/2025, <a href="https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=321637&bbsId=BBSMSTR_000000000082" target="_blank">Link</a>
 
