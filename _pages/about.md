@@ -32,32 +32,31 @@ Education
 
 Selected Publications
 ======
-Seojoon Lee, **Byungjun Kim**, Bong Gwan Jun, "Automatic Detection of Four-Panel Cartoon in Large-Scale
-Korean Digitized Newspapers using Deep Learning", *JOURNAL OF OPEN HUMANITIES DATA*, (2024), <a href="https://doi.org/10.5334/johd.205" target="_blank">Link</a>
+Hong, Y., **Kim, B.**, Jeon, J., & Kim, L. (2025). Has higher education become more interdisciplinary? A longitudinal analysis of syllabi using natural language processing. *Humanities and Social Sciences Communications*, 12(1), 1841. <a href="https://doi.org/10.1057/s41599-025-06126-7" target="_blank">Link</a>
 
-Jonghyun Jee, **Byungjun Kim**, Bong Gwan Jun, "The Role of English Wikipedia in Mediating East Asian Historical Disputes: The Case of Balhae", *ASIAN JOURNAL OF COMMUNICATION*, (2024),  <a href="https://doi.org/10.1080/01292986.2024.2342822" target="_blank">Link</a>
+Lee, S., **Kim, B.**, & Jun, B. G. (2024). Automatic detection of four-panel cartoon in large-scale Korean digitized newspapers using deep learning. *Journal of Open Humanities Data*. <a href="https://doi.org/10.5334/johd.205" target="_blank">Link</a>
 
-**Byungjun Kim**, Soeun Yang, Hana Kim, "Voices of Transitions: Korea’s Online News Media and User Comments on the Energy Transition", *ENERGY POLICY*, (2024) <a href="https://doi.org/10.1016/j.enpol.2024.114020" target="_blank">Link</a>
+**Kim, B.**, Yang, S., & Kim, H. (2024). Voices of transitions: Korea's online news media and user comments on the energy transition. *Energy Policy*. <a href="https://doi.org/10.1016/j.enpol.2024.114020" target="_blank">Link</a>
 
-Yerin Kim, **Byungjun Kim**, Minhyung Park, Woomin Nam, Jang Hyun Kim, "A Soft Power Challenge, or an Opportunity? A Big Data analysis on Chinese Soft Power During COVID-19 Pandemic", *FOREIGN POLICY ANALYSIS*, (2023) <a href=" https://doi.org/10.1093/fpa/orad011" target="_blank">Link</a>
+전봉관, 장우리, 이서준, & **김병준**. (2024). 멍텅구리: 한국 최초 신문 연재 네컷만화로 100년 전 날것의 식민지 조선을 보다. *더숲*. <a href="https://www.riss.kr/link?id=M17138304" target="_blank">Link</a>
 
-Kyeo Re Lee, Jang Hyun Kim, Jayeon Jang, Jeewoo Yoon, Dongyan Nan, Yonghwan Kim, **<U>Byungjun Kim</U>**, "News big data analysis of international start-up innovation discourses through topic modelling and network analysis: comparing East Asia and North America", *ASIAN JOURNAL OF TECHNOLOGY INNOVATION*, (2022) <a href="https://doi.org/10.1080/19761597.2022.2134154" target="_blank">Link</a>
+Kim, Y., **Kim, B.**, Park, M., Nam, W., & Kim, J. H. (2023). A soft power challenge, or an opportunity? A big data analysis on Chinese soft power during COVID-19 pandemic. *Foreign Policy Analysis*. <a href="https://doi.org/10.1093/fpa/orad011" target="_blank">Link</a>
 
-**Byungjun Kim**, Minjoo Yoo, Keon Chul Park, Kyeo Re Lee, Jang Hyun Kim, "A value of civic voices for smart city: A big data analysis of civic queries posed by Seoul citizens", *CITIES*, (2021) <a href="https://doi.org/10.1016/j.cities.2020.102941" target="_blank">Link</a>
+**김병준**, & 전봉관. (2023). 민족, 국민, 국가—시계열 워드 임베딩을 활용한 조선일보 기사의 민족 담론 의미 변동 추적(1920~40). *현대소설연구*. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11447796" target="_blank">Link</a>
 
-전봉관, 장우리, 이서준, **김병준**, "멍텅구리 : 한국 최초 신문 연재 네컷만화로 100년 전 날것의 식민지 조선을 보다 (Meongteongguri: A Raw Look at Colonial Joseon 100 Years Ago Through Korea’s First Newspaper-Serialized Four-Panel Comic)", *더숲*, (2024) <a href="https://www.riss.kr/link?id=M17138304" target="_blank">Link</a>
+전준, **김병준**, 김재홍, & 김란우. (2023). 전산사회과학 연구과정의 블랙박스 열기: 아카데믹 데이터베이스를 활용한 비교사회학 연구를 중심으로. *한국사회학*. <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002967055" target="_blank">Link</a>
 
-**김병준**, 전봉관, "민족, 국민, 국가－시계열 워드 임베딩을 활용한 조선일보 기사의 민족 담론 의미 변동 추적(1920~40)－(Minjok, Gungmin, Gukga －Tracking Changes in the Meaning of National Discourse in Chosun Ilbo Articles Using Dynamic Word Embedding (1920-40))", *현대소설연구*, (2023) <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11447796" target="_blank">Link</a>
+최진석, **김병준**, 허예슬, 최주찬, & 황호덕. (2023). 김윤식과 우리 시대, 인용의 인구사회학적 시좌: 현대문학연구자의 성별 및 세대 별 김윤식 저술 인용 양상 연구(2004-2019). *국제어문*. <a href="https://doi.org/10.31147/IALL.96.12" target="_blank">Link</a>
 
-전준, **김병준**, 김재홍, 김란우, "전산사회과학 연구과정의 블랙박스 열기: 아카데믹 데이터베이스를 활용한 비교사회학 연구를 중심으로(Opening the Blackbox of Computational Social Science Research Process: A Case of Comparative Study of Social Science Academia)", *한국사회학*, (2023) <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002967055" target="_blank">Link</a>
+류인태, 곽지은, 권기성, 김바로, **김병준**, 김지선, 박진호, 양승목, 이민철, 이재연, 장문석, 지영원, & 한희연. (2023). *디지털로 읽고 데이터로 쓰다: 디지털 한국어문학의 모색*. 박문사. <a href="http://www.riss.kr/link?id=M16738481" target="_blank">Link</a>
 
-최진석, **김병준**, 허예슬, 최주찬, 황호덕, "김윤식과 우리 시대, 인용의 인구사회학적 시좌 : 현대문학연구자의 성별 및 세대 별 김윤식 저술 인용 양상 연구(2004-2019) (Kim Yunsik and Our Epoch, A Demographic Viewpoint of Citation - Korean Modern Literature Researchers' Citation Patterns of Kim Yunsik's Writings by Gender and Generation, 2004-2019 -)", *국제어문*, (2023) <a href="https://doi.org/10.31147/IALL.96.12" target="_blank">Link</a>
+Lee, K. R., Kim, J. H., Jang, J., Yoon, J., Nan, D., Kim, Y., & <u>**Kim, B.**</u> (2022). News big data analysis of international start-up innovation discourses through topic modelling and network analysis: Comparing East Asia and North America. *Asian Journal of Technology Innovation*. <a href="https://doi.org/10.1080/19761597.2022.2134154" target="_blank">Link</a>
 
-류인태, 곽지은, 권기성, 김바로, **김병준**, 김지선, 박진호, 양승목, 이민철, 이재연, 장문석, 지영원, 한희연, "디지털로 읽고 데이터로 쓰다:디지털 한국어문학의 모색 (Reading Digitally and Writing with Data: Exploring Digital Korean Language and Literature)", *박문사*, (2023) <a href="http://www.riss.kr/link?id=M16738481" target="_blank">Link</a>
+**Kim, B.**, Yoo, M., Park, K. C., Lee, K. R., & Kim, J. H. (2021). A value of civic voices for smart city: A big data analysis of civic queries posed by Seoul citizens. *Cities*. <a href="https://doi.org/10.1016/j.cities.2020.102941" target="_blank">Link</a>
 
-**김병준**, 천정환, "박사학위 논문(2000∼2019) 데이터 분석을 통해 본 한국 현대문학 연구의 변화와 전망(The Changes and Prospects of Studies on Modern Korean Literature Data Analysis of Doctoral Dissertations from 2000 throughout 2019)", *상허학보*, (2020) <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002647202" target="_blank">Link</a>
+**김병준**, & 천정환. (2020). 박사학위 논문(2000∼2019) 데이터 분석을 통해 본 한국 현대문학 연구의 변화와 전망. *상허학보*. <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002647202" target="_blank">Link</a>
 
-**김병준**, 전봉관, 이원재, "비평 언어의 변동: 문예지 비평 텍스트에 나타난 개념단어의 변동 양상, 1995~2015(The Shifting Aspects of Concept Words Shown in Criticism in Literature Magazines, 1995~2015)", *현대문학의 연구*, (2017) <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002201115" target="_blank">Link</a>
+**김병준**, 전봉관, & 이원재. (2017). 비평 언어의 변동: 문예지 비평 텍스트에 나타난 개념단어의 변동 양상, 1995~2015. *현대문학의 연구*. <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002201115" target="_blank">Link</a>
 
 Featured Grants & Projects
 ======
