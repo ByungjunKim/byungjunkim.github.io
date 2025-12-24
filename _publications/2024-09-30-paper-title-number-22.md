@@ -8,7 +8,8 @@ venue: 'The Korean Journal of Animation'
 # paperurl: 'http://byungjunkim.github.io/files/paper17.pdf'
 citation: "Lee, Y, and <b>Kim, B</b>. (2024). The Expansion and Diversification of Webtoon-Related Research in the Korean Academic Field: A Structural Topic Modeling Based on KCI Paper Bibliographic Data from 2003 to 2023. <i>The Korean Journal of Animation</i>. 20(3). 80–104."
 ---
-[Online link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003123833)  
+[Online link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003123833)
+[Github](https://github.com/YunHoLeee/WRIK)  
 [Download paper here](http://byungjunkim.github.io/files/paper22.pdf)
 
 ## Abstract
