@@ -46,8 +46,6 @@ Kim, Y., **Kim, B.**, Park, M., Nam, W., & Kim, J. H. (2023). A soft power chall
 
 **김병준**, & 전봉관. (2023). 민족, 국민, 국가—시계열 워드 임베딩을 활용한 조선일보 기사의 민족 담론 의미 변동 추적(1920~40). *현대소설연구*. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11447796" target="_blank">Link</a>
 
-전준, **김병준**, 김재홍, & 김란우. (2023). 전산사회과학 연구과정의 블랙박스 열기: 아카데믹 데이터베이스를 활용한 비교사회학 연구를 중심으로. *한국사회학*. <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002967055" target="_blank">Link</a>
-
 최진석, **김병준**, 허예슬, 최주찬, & 황호덕. (2023). 김윤식과 우리 시대, 인용의 인구사회학적 시좌: 현대문학연구자의 성별 및 세대 별 김윤식 저술 인용 양상 연구(2004-2019). *국제어문*. <a href="https://doi.org/10.31147/IALL.96.12" target="_blank">Link</a>
 
 류인태, 곽지은, 권기성, 김바로, **김병준**, 김지선, 박진호, 양승목, 이민철, 이재연, 장문석, 지영원, & 한희연. (2023). *디지털로 읽고 데이터로 쓰다: 디지털 한국어문학의 모색*. 박문사. <a href="http://www.riss.kr/link?id=M16738481" target="_blank">Link</a>
