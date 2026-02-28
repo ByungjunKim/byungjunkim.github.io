@@ -32,6 +32,8 @@ Education
 
 Selected Publications
 ======
+**Kim, B.**, Jee, J., & Woo, D. (2026). Mapping the semantic transformations of major powers in Cold War East Asia: a word embedding approach using Chinese and Korean newspapers (1946–95). *Digital Scholarship in the Humanities*, fqag003. <a href="https://doi.org/10.1093/llc/fqag003" target="_blank">Link</a>
+
 Hong, Y., **Kim, B.**, Jeon, J., & Kim, L. (2025). Has higher education become more interdisciplinary? A longitudinal analysis of syllabi using natural language processing. *Humanities and Social Sciences Communications*, 12(1), 1841. <a href="https://doi.org/10.1057/s41599-025-06126-7" target="_blank">Link</a>
 
 Lee, S., **Kim, B.**, & Jun, B. G. (2024). Automatic detection of four-panel cartoon in large-scale Korean digitized newspapers using deep learning. *Journal of Open Humanities Data*. <a href="https://doi.org/10.5334/johd.205" target="_blank">Link</a>
