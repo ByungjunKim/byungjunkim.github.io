@@ -6,7 +6,7 @@ excerpt: "This study analyzes all 1,487 articles published in The Journal of Kor
 date: 2025-12-31
 venue: 'The Journal of Korean Fiction Research'
 # paperurl: 'http://byungjunkim.github.io/files/paper17.pdf'
-citation: "최주찬, 김병준, 김경민 & 허예슬 (2025). The Era of the Novel, 31 Years On －Facing the 100th Question — Data-Driven Reading of The Journal of Korean Fiction Research (Vol. 1–99). <i>The Journal of Korean Fiction Research</i>, 100, 9-40. https://doi.org/10.20483/JKFR.2025.12.100.9"
+citation: "최주찬, 김병준, 김경민 & 허예슬 (2025). The Era of the Novel, 31 Years On －Facing the 100th Question — Data-Driven Reading of The Journal of Korean Fiction Research (Vol. 1–99). <i>The Journal of Korean Fiction Research</i>, 100, 9-40."
 
 
 ---
