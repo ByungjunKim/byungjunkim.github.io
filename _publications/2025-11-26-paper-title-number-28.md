@@ -6,7 +6,7 @@ excerpt: "This study investigates whether higher education has embraced interdis
 date: 2025-11-26
 venue: 'Humanities and Social Sciences Communications'
 # paperurl: 'http://byungjunkim.github.io/files/paper17.pdf'
-citation: "Hong, Y., Kim, B., Jeon, J., & Kim, L. (2025). Has higher education become more interdisciplinary? a longitudinal analysis of syllabi using natural language processing. Humanities and Social Sciences Communications, 12(1), 1841."
+citation: "Hong, Y., Kim, B., Jeon, J., & Kim, L. (2025). Has higher education become more interdisciplinary? a longitudinal analysis of syllabi using natural language processing. <i>Humanities and Social Sciences Communications</i>, 12(1), 1841."
 
 
 ---
