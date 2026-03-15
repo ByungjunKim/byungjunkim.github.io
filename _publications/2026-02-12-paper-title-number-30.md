@@ -13,7 +13,7 @@ citation: "Kim, B., Jee, J., & Woo, D. (2026). Mapping the semantic transformati
 [Online link](https://doi.org/10.1093/llc/fqag003)  
 [Figshare](https://doi.org/10.6084/m9.figshare.27215100)  
 [Github](https://github.com/ByungjunKim/dynamic_bernoulli_embeddings)  
-[Download paper here](http://byungjunkim.github.io/files/paper29.pdf)
+[Download paper here](http://byungjunkim.github.io/files/paper30.pdf)
 
 
 ## Abstract
