@@ -8,8 +8,8 @@ venue: 'CONCEPT AND COMMUNICATION'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
 citation: "<b>Byungjun Kim</b>. (2021). &quot;The Possibility of Bibliometric-based Conceptual History Research.&quot; <i>CONCEPT AND COMMUNICATION</i>. 28."
 ---
-[Online link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002803884)  
-[Download paper here](http://byungjunkim.github.io/files/paper9.pdf)
+[Online link](https://doi.org/10.15797/concom.2021..28.007)  
+[Download paper here](https://byungjunkim.com/files/paper9.pdf)
 
 ## Abstract
 The objective of this article is to showcase the potential for scholarly contributions to the field of conceptual history or intellectual history by engaging in various digital humanities initiatives and studies, employing a trial and error approach. The proposed research in conceptual history will employ bibliographic information and meta-bibliometrics as the primary data sources and approaches. Traditional approaches to conceptual history research have focused on analyzing various forms of literature, such as periodicals, newspapers, and literary works, in order to investigate the historical transformations and applications of concepts. Indeed, both conceptual history study and humanities research employ historical texts as primary sources. Regardless of whether the texts are approached through qualitative reading or quantitative analysis, the primary source for study is the existing body of literature. While it is customary for historians to engage with historical texts and literary researchers to analyze literary works, it is worth considering whether other forms of material can also be considered as texts. In the realm of conceptual history research, when a certain concept encompasses a multitude of knowledge, which text is most suitable for containing this knowledge? Examining the bibliographic details, including the title, abstract, keywords, and references, of a scholarly article is a research endeavor aimed at exploring the evolution of a certain academic discipline via the lens of conceptual historical investigation.
