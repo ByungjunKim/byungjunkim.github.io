@@ -8,7 +8,7 @@ venue: 'Korean Journal of Sociology'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
 citation: "June Jeon, <b>Byungjun Kim</b>, Jaehong Kim, and Lanu Kim. (2023). &quot;Opening the Blackbox of Computational Social Science Research Process: A Case of Comparative Study of Social Science Academia.&quot; <i>Korean Journal of Sociology</i>. 57(2)."
 ---
-[Online link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002967055)  
+[Online link](https://doi.org/10.21562/kjs.2023.05.57.2.131)  
 [Github](https://github.com/ByungjunKim/OpenBlackBox)  
 [Download paper here](http://byungjunkim.github.io/files/paper13.pdf)
 
