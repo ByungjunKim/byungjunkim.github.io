@@ -6,7 +6,7 @@ excerpt: "This study proposes the design and implementation of a subword-based m
 date: 2024-11-30
 venue: 'Korean Journal of Digital Humanities'
 # paperurl: 'http://byungjunkim.github.io/files/paper17.pdf'
-citation: "<b>Kim, B.</b> (2024). Design and Implementation of a Subword-based Morphological Analyzer for Modern Sino-Korean Mixed Texts. <i>Korean Journal of Digital Humanities</i>, 1(2), 68-76, https://doi.org/10.23287/KJDH.2024.1.2.5"
+citation: "Kim, B. (2024). Design and Implementation of a Subword-based Morphological Analyzer for Modern Sino-Korean Mixed Texts. <i>Korean Journal of Digital Humanities</i>, 1(2), 68-76, https://doi.org/10.23287/KJDH.2024.1.2.5"
 
 ---
 [Online link](https://doi.org/10.23287/KJDH.2024.1.2.5)  

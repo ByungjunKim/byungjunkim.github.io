@@ -6,7 +6,7 @@ excerpt: "This study analyzes the bibliographic information of around 250,000 KC
 date: 2022-08-25
 venue: 'Doctoral dissertation, Sungkyunkwan University'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
-citation: "<b>Byungjun Kim</b>. (2022). &quot;Mapping the knowledge structure of Korean humanities: Bibliographic data analysis of humanities journal articles in the Korea citation index, 2004~2019.&quot; [Doctoral dissertation, Sungkyunkwan University]. http://www.riss.kr/link?id=T16395691"
+citation: "Byungjun Kim. (2022). &quot;Mapping the knowledge structure of Korean humanities: Bibliographic data analysis of humanities journal articles in the Korea citation index, 2004~2019.&quot; [Doctoral dissertation, Sungkyunkwan University]. http://www.riss.kr/link?id=T16395691"
 ---
 [Online link](http://www.riss.kr/link?id=T16395691)  
 [Download paper here](http://byungjunkim.github.io/files/phd.pdf)

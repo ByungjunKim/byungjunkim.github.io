@@ -6,7 +6,7 @@ excerpt: "The proposed research in conceptual history will employ bibliographic 
 date: 2021-12-31
 venue: 'CONCEPT AND COMMUNICATION'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
-citation: "<b>Byungjun Kim</b>. (2021). &quot;The Possibility of Bibliometric-based Conceptual History Research.&quot; <i>CONCEPT AND COMMUNICATION</i>. 28."
+citation: "Byungjun Kim. (2021). &quot;The Possibility of Bibliometric-based Conceptual History Research.&quot; <i>CONCEPT AND COMMUNICATION</i>. 28."
 ---
 [Online link](https://doi.org/10.15797/concom.2021..28.007)  
 [Download paper here](https://byungjunkim.com/files/paper9.pdf)
