@@ -29,3 +29,26 @@ jobs:
         run: bundle exec jekyll build --strict_front_matter
         env:
           JEKYLL_ENV: production
+
+      - name: Sanity check built site
+        run: |
+          set -e
+          fail() { echo "FAIL: $1"; exit 1; }
+          grep -q "Assistant Professor" _site/index.html || fail "홈페이지가 내 about 내용이 아님"
+          grep -q "ByungjunKim_CV_2607.pdf" _site/index.html || fail "CV 링크(2607) 없음"
+          grep -q "Center for Digital Humanities" _site/index.html || fail "about 본문 누락"
+          grep -q "Gobaek" _site/index.html || fail "신규 연구과제 누락"
+          n=$(grep -c 'class="archive__item-title"' _site/publications/index.html)
+          echo "publications 항목 수: $n"
+          [ "$n" -ge 38 ] || fail "publications 목록이 38건 미만 ($n)"
+          grep -q "KNoTE" _site/publications/index.html || fail "KNoTE 누락"
+          grep -q "byungjunkim.com" _site/CNAME || fail "CNAME 손상"
+          ls _site/files/ByungjunKim_CV_2607.pdf > /dev/null || fail "CV PDF 미배포"
+          echo "모든 검증 통과"
+
+      - name: Upload built site
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-preview
+          path: _site
+          retention-days: 14
