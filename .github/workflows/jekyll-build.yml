@@ -68,12 +68,19 @@ jobs:
       - name: "검증 - publications: citation 숨김"
         if: always()
         run: |
-          ! grep -q "Recommended citation" _site/publications/index.html
+          python3 -c "
+          import re,io
+          h=io.open('_site/publications/index.html',encoding='utf-8').read()
+          visible=re.sub(r'<!--.*?-->','',h,flags=re.S)
+          assert 'Recommended citation' not in visible, '목록에 citation 이 노출됨'
+          print('OK: citation 은 주석 안에만 존재')
+          "
 
       - name: "검증 - 개별 논문 페이지 생성"
         if: always()
         run: |
-          test -f _site/publication/2026-07-30-paper-title-number-33/index.html
+          test -f _site/publication/2026-07-30-paper-title-number-33.html
+          grep -q "Recommended citation" _site/publication/2026-07-30-paper-title-number-33.html
 
       - name: "검증 - CV PDF 배포"
         if: always()
