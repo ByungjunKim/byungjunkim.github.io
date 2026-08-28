@@ -6,7 +6,7 @@ excerpt: "This study quantitatively examines the impact of the commercialization
 date: 2026-04-30
 venue: 'Language and Information'
 # paperurl: 'http://byungjunkim.github.io/files/paper31.pdf'
-citation: "구슬, 김가연 & **김병준** (2026). Lexical Changes in Academic Abstracts in Korean Humanities and Social Sciences Following the Commercialization of LLMs: A Corpus-Based Analysis of KCI Abstract Data (2004–2024). <i>Language and Information</i>, 30(1), 1-24."
+citation: "구슬, 김가연 & <b>김병준</b> (2026). Lexical Changes in Academic Abstracts in Korean Humanities and Social Sciences Following the Commercialization of LLMs: A Corpus-Based Analysis of KCI Abstract Data (2004–2024). <i>Language and Information</i>, 30(1), 1-24."
 
 
 ---

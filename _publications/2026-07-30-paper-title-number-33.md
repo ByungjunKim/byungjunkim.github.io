@@ -6,7 +6,7 @@ excerpt: "KNoTE (Korean Novel TEI Encoded) is an open XML dataset of 33 modern K
 date: 2026-07-30
 venue: 'Journal of Open Humanities Data'
 # paperurl: 'http://byungjunkim.github.io/files/paper33.pdf'
-citation: "Kim, G., Park, S., Ji, H., Lee, H., Lee, B., Jeong, C., & **Kim, B.** (2026). KNoTE: A TEI Encoded XML Dataset of Modern Korean Novels. <i>Journal of Open Humanities Data</i>, 12, 102."
+citation: "Kim, G., Park, S., Ji, H., Lee, H., Lee, B., Jeong, C., & <b>Kim, B.</b> (2026). KNoTE: A TEI Encoded XML Dataset of Modern Korean Novels. <i>Journal of Open Humanities Data</i>, 12, 102."
 
 
 ---

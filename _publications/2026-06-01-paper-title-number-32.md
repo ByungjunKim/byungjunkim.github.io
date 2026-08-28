@@ -6,7 +6,7 @@ excerpt: "This study introduces KPoEM (Korean Poetry Emotion Mapping), a multi-l
 date: 2026-06-01
 venue: 'The Review of Korean Studies'
 # paperurl: 'http://byungjunkim.github.io/files/paper32.pdf'
-citation: "Lim, I., Ji, H., & **Kim, B.** (2026). KPoEM: A Human-Annotated Dataset for Emotion Classification and RAG-Based Poetry Generation in Korean Modern Poetry. <i>The Review of Korean Studies</i>, 29(1), 161-206."
+citation: "Lim, I., Ji, H., & <b>Kim, B.</b> (2026). KPoEM: A Human-Annotated Dataset for Emotion Classification and RAG-Based Poetry Generation in Korean Modern Poetry. <i>The Review of Korean Studies</i>, 29(1), 161-206."
 
 
 ---

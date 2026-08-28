@@ -6,7 +6,7 @@ excerpt: "This study proposes three directions: first, reestablishing the autono
 date: 2025-02-28
 venue: 'The Journal of Yeongju Language & Literature'
 # paperurl: 'http://byungjunkim.github.io/files/paper17.pdf'
-citation: "Kim, B. & Noh, D. (2025). How Will Generative AI Change Humanities Research?. <i>The Journal of Yeongju Language & Literature</i>, 59, 203–227. https://doi.org/10.30774/yjll.2025.2.59.203"
+citation: "<b>Kim, B.</b> & Noh, D. (2025). How Will Generative AI Change Humanities Research?. <i>The Journal of Yeongju Language & Literature</i>, 59, 203–227. https://doi.org/10.30774/yjll.2025.2.59.203"
 
 
 ---

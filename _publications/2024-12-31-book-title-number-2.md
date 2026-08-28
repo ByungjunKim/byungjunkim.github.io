@@ -6,7 +6,7 @@ excerpt: "'Meongteongguri' is Korea's first newspaper-serialized four-panel comi
 date: 2024-12-31
 venue: '더숲'
 # paperurl: 'http://byungjunkim.github.io/files/paper3.pdf'
-citation: "전봉관, 장우리, 이서준 & 김병준. (2024). 멍텅구리 : 한국 최초 신문 연재 네컷만화로 100년 전 날것의 식민지 조선을 보다. <i>더숲</i>."
+citation: "전봉관, 장우리, 이서준 & <b>김병준</b>. (2024). 멍텅구리 : 한국 최초 신문 연재 네컷만화로 100년 전 날것의 식민지 조선을 보다. <i>더숲</i>."
 ---
 [Online link](https://www.riss.kr/link?id=M17138304)  
 

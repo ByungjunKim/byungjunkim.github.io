@@ -6,7 +6,7 @@ excerpt: "We present a multilingual coreference dataset of 827k tokens of fictio
 date: 2026-07-02
 venue: 'Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026, Volume 2: Short Papers)'
 # paperurl: 'http://byungjunkim.github.io/files/paper34.pdf'
-citation: "van Cranenburgh, A., Yang, X., Alvanita, Di Domenico, C. N., Ferragud, M., Graciotti, A., Ion, A. G., **Kim, B.**, Park, S., Visser Solissa, N., Zhou, X., & Pianzola, F. (2026). GOLEMcoref: A Multilingual Coreference Dataset of Fiction. <i>Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)</i>, 472-480."
+citation: "van Cranenburgh, A., Yang, X., Alvanita, Di Domenico, C. N., Ferragud, M., Graciotti, A., Ion, A. G., <b>Kim, B.</b>, Park, S., Visser Solissa, N., Zhou, X., & Pianzola, F. (2026). GOLEMcoref: A Multilingual Coreference Dataset of Fiction. <i>Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)</i>, 472-480."
 
 
 ---

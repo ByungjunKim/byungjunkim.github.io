@@ -6,7 +6,7 @@ excerpt: "This study examines semantic shifts surrounding political entities dur
 date: 2026-02-12
 venue: 'Digital Scholarship in the Humanities'
 # paperurl: 'http://byungjunkim.github.io/files/paper17.pdf'
-citation: "**Kim, B**., Jee, J., & Woo, D. (2026). Mapping the semantic transformations of major powers in Cold War East Asia: a word embedding approach using Chinese and Korean newspapers (1946–95), <i>Digital Scholarship in the Humanities</i>, fqag003."
+citation: "<b>Kim, B</b>., Jee, J., & Woo, D. (2026). Mapping the semantic transformations of major powers in Cold War East Asia: a word embedding approach using Chinese and Korean newspapers (1946–95), <i>Digital Scholarship in the Humanities</i>, fqag003."
 
 
 ---
