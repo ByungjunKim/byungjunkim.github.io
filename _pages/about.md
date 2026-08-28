@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor at the <a href="https://grad.aks.ac.kr/com/cmm/EgovContentView.do?menuNo=3010126000&lang=eng" target="_blank">Cultural Informatics</a>, The Graduate School of Korean Studies, The Academy of Korean Studies. I am also a co-director of the <a href="https://digitalhumanities.kr/" target="_blank">Center for Digital Humanities</a>, which I co-run with Professor Baro Kim. Prior to this position, I served as a Research Assistant Professor at the <a href="https://dhcss.kaist.ac.kr/" target="_blank">Center for Digital Humanities and Computational Social Sciences</a>, Korea Advanced Institute of Science and Technology (<a href="https://www.kaist.ac.kr/en/" target="_blank">KAIST</a>).
 
-My research interests lie in data science-based approaches in the humanities and social sciences. Please refer to my <a href="http://byungjunkim.github.io/files/ByungjunKim_CV_2606.pdf" target="_blank">CV</a> for detailed research history. All my research and teaching history can be found in the <a href="http://byungjunkim.github.io/publications/" target="_blank">Publications</a>, <a href="http://byungjunkim.github.io/talks/" target="_blank">Talks</a>, and <a href="http://byungjunkim.github.io/teaching/" target="_blank">Teaching</a>. Since 2022, I have held positions on both the board of directors and editorial board of the <a href="https://www.kadh.org/" target="_blank">Korean Association for Digital Humanities (KADH)</a>.
+My research interests lie in data science-based approaches in the humanities and social sciences. Please refer to my <a href="http://byungjunkim.github.io/files/ByungjunKim_CV_2607.pdf" target="_blank">CV</a> for detailed research history. All my research and teaching history can be found in the <a href="http://byungjunkim.github.io/publications/" target="_blank">Publications</a>, <a href="http://byungjunkim.github.io/talks/" target="_blank">Talks</a>, and <a href="http://byungjunkim.github.io/teaching/" target="_blank">Teaching</a>. Since 2022, I have held positions on both the board of directors and editorial board of the <a href="https://www.kadh.org/" target="_blank">Korean Association for Digital Humanities (KADH)</a>.
 
 Research Interest Keywords
 ======
@@ -32,6 +32,10 @@ Education
 
 Selected Publications
 ======
+Kim, G., Park, S., Ji, H., Lee, H., Lee, B., Jeong, C., & **Kim, B.** (2026). KNoTE: A TEI encoded XML dataset of modern Korean novels. *Journal of Open Humanities Data*, 12, 102. <a href="https://doi.org/10.5334/johd.590" target="_blank">Link</a>
+
+Lim, I., Ji, H., & **Kim, B.** (2026). KPoEM: A human-annotated dataset for emotion classification and RAG-based poetry generation in Korean modern poetry. *The Review of Korean Studies*, 29(1), 161–206. <a href="https://doi.org/10.25024/review.2026.29.1.006" target="_blank">Link</a>
+
 **Kim, B.**, Jee, J., & Woo, D. (2026). Mapping the semantic transformations of major powers in Cold War East Asia: a word embedding approach using Chinese and Korean newspapers (1946–95). *Digital Scholarship in the Humanities*, fqag003. <a href="https://doi.org/10.1093/llc/fqag003" target="_blank">Link</a>
 
 Hong, Y., **Kim, B.**, Jeon, J., & Kim, L. (2025). Has higher education become more interdisciplinary? A longitudinal analysis of syllabi using natural language processing. *Humanities and Social Sciences Communications*, 12(1), 1841. <a href="https://doi.org/10.1057/s41599-025-06126-7" target="_blank">Link</a>
