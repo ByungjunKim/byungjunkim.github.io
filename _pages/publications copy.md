@@ -1,4 +1,5 @@
 ---
+published: false   # 옛 백업본 - 실제 페이지와 permalink 가 겹쳐 빌드 충돌을 일으키므로 비활성화
 layout: archive
 title: "Publications"
 permalink: /publications/
