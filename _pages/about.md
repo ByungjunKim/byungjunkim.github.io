@@ -38,15 +38,9 @@ Lim, I., Ji, H., & **Kim, B.** (2026). KPoEM: A human-annotated dataset for emot
 
 **Kim, B.**, Jee, J., & Woo, D. (2026). Mapping the semantic transformations of major powers in Cold War East Asia: a word embedding approach using Chinese and Korean newspapers (1946–95). *Digital Scholarship in the Humanities*, fqag003. <a href="https://doi.org/10.1093/llc/fqag003" target="_blank">Link</a>
 
-Hong, Y., **Kim, B.**, Jeon, J., & Kim, L. (2025). Has higher education become more interdisciplinary? A longitudinal analysis of syllabi using natural language processing. *Humanities and Social Sciences Communications*, 12(1), 1841. <a href="https://doi.org/10.1057/s41599-025-06126-7" target="_blank">Link</a>
-
-Lee, S., **Kim, B.**, & Jun, B. G. (2024). Automatic detection of four-panel cartoon in large-scale Korean digitized newspapers using deep learning. *Journal of Open Humanities Data*. <a href="https://doi.org/10.5334/johd.205" target="_blank">Link</a>
-
 **Kim, B.**, Yang, S., & Kim, H. (2024). Voices of transitions: Korea's online news media and user comments on the energy transition. *Energy Policy*. <a href="https://doi.org/10.1016/j.enpol.2024.114020" target="_blank">Link</a>
 
 전봉관, 장우리, 이서준, & **김병준**. (2024). 멍텅구리: 한국 최초 신문 연재 네컷만화로 100년 전 날것의 식민지 조선을 보다. *더숲*. <a href="https://www.riss.kr/link?id=M17138304" target="_blank">Link</a>
-
-Kim, Y., **Kim, B.**, Park, M., Nam, W., & Kim, J. H. (2023). A soft power challenge, or an opportunity? A big data analysis on Chinese soft power during COVID-19 pandemic. *Foreign Policy Analysis*. <a href="https://doi.org/10.1093/fpa/orad011" target="_blank">Link</a>
 
 **김병준**, & 전봉관. (2023). 민족, 국민, 국가—시계열 워드 임베딩을 활용한 조선일보 기사의 민족 담론 의미 변동 추적(1920~40). *현대소설연구*. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11447796" target="_blank">Link</a>
 
