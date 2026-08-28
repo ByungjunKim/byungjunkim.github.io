@@ -16,81 +16,81 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
+      - name: "Check out repository"
         uses: actions/checkout@v4
 
-      - name: Set up Ruby
+      - name: "Set up Ruby"
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.2"
           bundler-cache: true
 
-      - name: Build site
+      - name: "Build site"
         run: bundle exec jekyll build --strict_front_matter
         env:
           JEKYLL_ENV: production
 
-      - name: 검증 - index: about 본문
+      - name: "검증 - index: about 본문"
         if: always()
         run: |
           grep -q "Assistant Professor" _site/index.html
 
-      - name: 검증 - index: CV 2607 링크
+      - name: "검증 - index: CV 2607 링크"
         if: always()
         run: |
           grep -q "ByungjunKim_CV_2607.pdf" _site/index.html
 
-      - name: 검증 - index: 신규 과제 Gobaek
+      - name: "검증 - index: 신규 과제 Gobaek"
         if: always()
         run: |
           grep -q "Gobaek" _site/index.html
 
-      - name: 검증 - index: 데모문구 없음
+      - name: "검증 - index: 데모문구 없음"
         if: always()
         run: |
           ! grep -q "powered by the .academicpages template" _site/index.html
 
-      - name: 검증 - publications 페이지 생성
+      - name: "검증 - publications 페이지 생성"
         if: always()
         run: |
           test -f _site/publications/index.html
 
-      - name: 검증 - publications: KNoTE
+      - name: "검증 - publications: KNoTE"
         if: always()
         run: |
           grep -q "KNoTE" _site/publications/index.html
 
-      - name: 검증 - publications: 38건 이상
+      - name: "검증 - publications: 38건 이상"
         if: always()
         run: |
           n=$(grep -o "archive__item-title" _site/publications/index.html | wc -l); echo "count=$n"; test "$n" -ge 38
 
-      - name: 검증 - publications: citation 숨김
+      - name: "검증 - publications: citation 숨김"
         if: always()
         run: |
           ! grep -q "Recommended citation" _site/publications/index.html
 
-      - name: 검증 - 개별 논문 페이지 생성
+      - name: "검증 - 개별 논문 페이지 생성"
         if: always()
         run: |
           test -f _site/publication/2026-07-30-paper-title-number-33/index.html
 
-      - name: 검증 - CV PDF 배포
+      - name: "검증 - CV PDF 배포"
         if: always()
         run: |
           test -f _site/files/ByungjunKim_CV_2607.pdf
 
-      - name: 검증 - CNAME 유지
+      - name: "검증 - CNAME 유지"
         if: always()
         run: |
           grep -q "byungjunkim.com" _site/CNAME
 
-      - name: 검증 - 사이드바 Lab 링크
+      - name: "검증 - 사이드바 Lab 링크"
         if: always()
         run: |
           grep -q "digitalhumanities.kr" _site/index.html
 
-      - name: Upload built site
+      - name: "Upload built site"
         if: always()
         uses: actions/upload-artifact@v4
         with:
