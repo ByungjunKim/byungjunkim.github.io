@@ -12,6 +12,7 @@ citation: "Kim, G., Park, S., Ji, H., Lee, H., Lee, B., Jeong, C., & <b>Kim, B.<
 ---
 [Online link](https://doi.org/10.5334/johd.590)  
 [Dataset](https://doi.org/10.5281/zenodo.18679321)  
+[Github](https://github.com/AKS-DHLAB/KNoTE)  
 [Download paper here](http://byungjunkim.github.io/files/paper33.pdf)
 
 
