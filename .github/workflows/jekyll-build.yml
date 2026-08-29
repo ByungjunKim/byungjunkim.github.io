@@ -35,10 +35,10 @@ jobs:
         run: |
           grep -q "Assistant Professor" _site/index.html
 
-      - name: "검증 - index: CV 2607 링크"
+      - name: "검증 - index: CV 2608 링크"
         if: always()
         run: |
-          grep -q "ByungjunKim_CV_2607.pdf" _site/index.html
+          grep -q "ByungjunKim_CV_2608.pdf" _site/index.html
 
       - name: "검증 - index: 신규 과제 Gobaek"
         if: always()
@@ -85,7 +85,7 @@ jobs:
       - name: "검증 - CV PDF 배포"
         if: always()
         run: |
-          test -f _site/files/ByungjunKim_CV_2607.pdf
+          test -f _site/files/ByungjunKim_CV_2608.pdf
 
       - name: "검증 - CNAME 유지"
         if: always()
