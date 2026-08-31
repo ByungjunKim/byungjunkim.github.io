@@ -1,0 +1,201 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""
+DOCX -> 고화질 PDF 변환기 (Windows)
+
+Word를 열어 두고 docx를 수정한 뒤, 이 스크립트만 실행하면 같은 폴더에
+같은 이름의 PDF가 벡터 텍스트 + 폰트 임베딩 상태로 다시 만들어진다.
+
+사용법
+------
+    python scripts/docx_to_pdf.py                 # files/ByungjunKim_CV_*.docx (최신) 변환
+    python scripts/docx_to_pdf.py a.docx b.docx   # 지정한 파일들 변환
+    python scripts/docx_to_pdf.py --out out.pdf a.docx
+    python scripts/docx_to_pdf.py --engine libreoffice a.docx
+
+품질 관련
+--------
+* 기본 엔진은 MS Word COM(ExportAsFixedFormat)이다. `OptimizeFor=Print`(인쇄
+  품질), 폰트 임베딩, 문서 구조 태그, 제목 북마크를 켠 채로 내보내므로
+  텍스트는 벡터로 남고 이미지도 다운샘플되지 않는다.
+* Word가 없으면 LibreOffice(soffice)로 자동 폴백한다. 이때도 이미지 300 DPI,
+  무손실 압축 옵션을 명시적으로 준다.
+
+주의: 대상 docx를 Word에서 열어 둔 채로 실행해도 되지만, 저장하지 않은 변경
+사항은 PDF에 반영되지 않는다. 먼저 저장(Ctrl+S)하고 실행할 것.
+"""
+
+from __future__ import annotations
+
+import argparse
+import glob
+import os
+import shutil
+import subprocess
+import sys
+
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DEFAULT_GLOB = os.path.join(REPO_ROOT, "files", "ByungjunKim_CV_*.docx")
+
+
+# --------------------------------------------------------------------------- #
+# 대상 파일 찾기
+# --------------------------------------------------------------------------- #
+def default_targets() -> list[str]:
+    """files/ 에서 가장 최근 수정된 CV docx 하나를 고른다."""
+    cands = [p for p in glob.glob(DEFAULT_GLOB) if not os.path.basename(p).startswith("~$")]
+    if not cands:
+        return []
+    return [max(cands, key=os.path.getmtime)]
+
+
+def pdf_path_for(docx: str, explicit_out: str | None) -> str:
+    if explicit_out:
+        return os.path.abspath(explicit_out)
+    return os.path.splitext(os.path.abspath(docx))[0] + ".pdf"
+
+
+# --------------------------------------------------------------------------- #
+# 엔진 1: MS Word COM
+# --------------------------------------------------------------------------- #
+def convert_with_word(pairs: list[tuple[str, str]]) -> None:
+    import pythoncom  # noqa: F401  (pywin32)
+    import win32com.client as win32
+
+    # Word 상수 (win32com.client.constants 는 late binding 시 비어 있을 수 있어 직접 명시)
+    wdExportFormatPDF = 17
+    wdExportOptimizeForPrint = 0
+    wdExportAllDocument = 0
+    wdExportDocumentContent = 0
+    wdExportCreateHeadingBookmarks = 1
+    wdDoNotSaveChanges = 0
+
+    pythoncom.CoInitialize()
+    word = win32.DispatchEx("Word.Application")
+    word.Visible = False
+    word.DisplayAlerts = False
+    try:
+        for docx, pdf in pairs:
+            doc = word.Documents.Open(
+                docx,
+                ReadOnly=True,
+                AddToRecentFiles=False,
+                Visible=False,
+                ConfirmConversions=False,
+            )
+            try:
+                doc.ExportAsFixedFormat(
+                    OutputFileName=pdf,
+                    ExportFormat=wdExportFormatPDF,
+                    OpenAfterExport=False,
+                    OptimizeFor=wdExportOptimizeForPrint,   # 화면용 압축 대신 인쇄 품질
+                    Range=wdExportAllDocument,
+                    Item=wdExportDocumentContent,
+                    IncludeDocProps=True,
+                    KeepIRM=True,
+                    CreateBookmarks=wdExportCreateHeadingBookmarks,
+                    DocStructureTags=True,                  # 접근성 태그 + 텍스트 선택 품질
+                    BitmapMissingFonts=False,               # 폰트를 비트맵화하지 않고 임베딩
+                    UseISO19005_1=False,
+                )
+            finally:
+                doc.Close(SaveChanges=wdDoNotSaveChanges)
+            report(docx, pdf, "Word")
+    finally:
+        word.Quit()
+        pythoncom.CoUninitialize()
+
+
+# --------------------------------------------------------------------------- #
+# 엔진 2: LibreOffice (폴백)
+# --------------------------------------------------------------------------- #
+def find_soffice() -> str | None:
+    exe = shutil.which("soffice") or shutil.which("soffice.exe")
+    if exe:
+        return exe
+    for base in (os.environ.get("ProgramFiles", r"C:\Program Files"),
+                 os.environ.get("ProgramFiles(x86)", r"C:\Program Files (x86)")):
+        cand = os.path.join(base, "LibreOffice", "program", "soffice.exe")
+        if os.path.isfile(cand):
+            return cand
+    return None
+
+
+def convert_with_libreoffice(pairs: list[tuple[str, str]]) -> None:
+    soffice = find_soffice()
+    if not soffice:
+        raise RuntimeError("LibreOffice(soffice)를 찾을 수 없습니다.")
+
+    # writer_pdf_Export 필터 옵션: 이미지 무손실 + 300 DPI, 폰트 임베딩, 태그 PDF
+    filter_opts = (
+        "pdf:writer_pdf_Export:"
+        '{"UseLosslessCompression":{"type":"boolean","value":"true"},'
+        '"ReduceImageResolution":{"type":"boolean","value":"false"},'
+        '"MaxImageResolution":{"type":"long","value":"300"},'
+        '"EmbedStandardFonts":{"type":"boolean","value":"true"},'
+        '"UseTaggedPDF":{"type":"boolean","value":"true"},'
+        '"ExportBookmarks":{"type":"boolean","value":"true"}}'
+    )
+
+    for docx, pdf in pairs:
+        outdir = os.path.dirname(pdf)
+        subprocess.run(
+            [soffice, "--headless", "--norestore", "--convert-to", filter_opts,
+             "--outdir", outdir, docx],
+            check=True,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.STDOUT,
+        )
+        produced = os.path.join(outdir, os.path.splitext(os.path.basename(docx))[0] + ".pdf")
+        if os.path.abspath(produced) != os.path.abspath(pdf):
+            shutil.move(produced, pdf)
+        report(docx, pdf, "LibreOffice")
+
+
+# --------------------------------------------------------------------------- #
+def report(docx: str, pdf: str, engine: str) -> None:
+    size = os.path.getsize(pdf) / 1024
+    print(f"[{engine}] {os.path.basename(docx)} -> {os.path.basename(pdf)} ({size:,.0f} KB)")
+
+
+def main(argv: list[str] | None = None) -> int:
+    ap = argparse.ArgumentParser(description="docx를 고화질 PDF로 변환한다.")
+    ap.add_argument("docx", nargs="*", help="변환할 docx (생략 시 files/ByungjunKim_CV_*.docx 중 최신본)")
+    ap.add_argument("--out", help="출력 PDF 경로 (docx를 하나만 지정했을 때만 유효)")
+    ap.add_argument("--engine", choices=["auto", "word", "libreoffice"], default="auto")
+    args = ap.parse_args(argv)
+
+    targets = [os.path.abspath(p) for p in args.docx] or default_targets()
+    if not targets:
+        print("변환할 docx가 없습니다.", file=sys.stderr)
+        return 1
+    if args.out and len(targets) > 1:
+        print("--out 은 docx 하나만 지정했을 때 쓸 수 있습니다.", file=sys.stderr)
+        return 1
+
+    for p in targets:
+        if not os.path.isfile(p):
+            print(f"파일이 없습니다: {p}", file=sys.stderr)
+            return 1
+
+    pairs = [(p, pdf_path_for(p, args.out)) for p in targets]
+
+    engines = {"auto": ["word", "libreoffice"], "word": ["word"], "libreoffice": ["libreoffice"]}[args.engine]
+    last_err: Exception | None = None
+    for eng in engines:
+        try:
+            if eng == "word":
+                convert_with_word(pairs)
+            else:
+                convert_with_libreoffice(pairs)
+            return 0
+        except Exception as exc:  # noqa: BLE001 - 다음 엔진으로 폴백
+            last_err = exc
+            print(f"{eng} 엔진 실패: {exc}", file=sys.stderr)
+
+    print(f"변환에 실패했습니다: {last_err}", file=sys.stderr)
+    return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
