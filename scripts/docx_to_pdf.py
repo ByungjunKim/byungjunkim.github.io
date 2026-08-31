@@ -15,11 +15,14 @@ Word를 열어 두고 docx를 수정한 뒤, 이 스크립트만 실행하면 �
 
 품질 관련
 --------
-* 기본 엔진은 MS Word COM(ExportAsFixedFormat)이다. `OptimizeFor=Print`(인쇄
-  품질), 폰트 임베딩, 문서 구조 태그, 제목 북마크를 켠 채로 내보내므로
-  텍스트는 벡터로 남고 이미지도 다운샘플되지 않는다.
-* Word가 없으면 LibreOffice(soffice)로 자동 폴백한다. 이때도 이미지 300 DPI,
-  무손실 압축 옵션을 명시적으로 준다.
+* 기본 엔진은 **LibreOffice**다. 이미지 300 DPI·무손실, 폰트 임베딩, 태그 PDF
+  옵션을 명시적으로 켠다.
+* Word(ExportAsFixedFormat)는 폴백이다. 인쇄 품질로 내보내긴 하지만
+  **CFF(.otf) 계열 폰트를 PDF에 임베딩하지 못한다.** 이 CV의 본문 폰트인
+  Pretendard가 정확히 그 경우라, Word로 뽑으면 폰트가 임베딩되지 않아
+  Pretendard가 없는 PC에서는 전혀 다른 폰트로 보인다. 그래서 순서를 뒤집었다.
+* 변환 후 임베딩 상태를 자동 검사해, 빠진 폰트가 있으면 경고를 출력한다
+  (pymupdf 가 설치돼 있을 때).
 
 주의: 대상 docx를 Word에서 열어 둔 채로 실행해도 되지만, 저장하지 않은 변경
 사항은 PDF에 반영되지 않는다. 먼저 저장(Ctrl+S)하고 실행할 것.
@@ -173,9 +176,37 @@ def convert_with_libreoffice(pairs: list[tuple[str, str]]) -> None:
 
 
 # --------------------------------------------------------------------------- #
+def check_embedded_fonts(pdf: str) -> None:
+    """PDF 안의 모든 폰트가 임베딩됐는지 확인하고, 빠진 게 있으면 경고한다.
+
+    임베딩되지 않은 폰트는 그 폰트가 깔려 있지 않은 PC에서 다른 폰트로 대체되어
+    docx 와 전혀 다른 인상을 준다. 조용히 넘어가면 알아채기 어려운 종류의 사고라
+    변환할 때마다 검사한다.
+    """
+    try:
+        import pymupdf
+    except ImportError:
+        return
+    missing = set()
+    with pymupdf.open(pdf) as doc:
+        pages = doc.page_count
+        for page in doc:
+            for font in page.get_fonts(full=True):
+                basefont, ext = font[3], font[1]
+                if ext in ("n/a", ""):
+                    missing.add(basefont)
+    print(f"        {pages}쪽", end="")
+    if missing:
+        print(f"  [경고] 임베딩되지 않은 폰트: {', '.join(sorted(missing))}")
+        print("        -> 해당 폰트가 없는 PC에서는 다른 폰트로 보입니다.")
+    else:
+        print("  모든 폰트 임베딩 확인")
+
+
 def report(docx: str, pdf: str, engine: str) -> None:
     size = os.path.getsize(pdf) / 1024
     print(f"[{engine}] {os.path.basename(docx)} -> {os.path.basename(pdf)} ({size:,.0f} KB)")
+    check_embedded_fonts(pdf)
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -200,7 +231,8 @@ def main(argv: list[str] | None = None) -> int:
 
     pairs = [(p, pdf_path_for(p, args.out)) for p in targets]
 
-    engines = {"auto": ["word", "libreoffice"], "word": ["word"], "libreoffice": ["libreoffice"]}[args.engine]
+    # LibreOffice 우선: Word 는 CFF(.otf) 폰트를 임베딩하지 못한다(위 독스트링 참고).
+    engines = {"auto": ["libreoffice", "word"], "word": ["word"], "libreoffice": ["libreoffice"]}[args.engine]
     last_err: Exception | None = None
     for eng in engines:
         try:
