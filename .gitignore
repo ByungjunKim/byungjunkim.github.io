@@ -24,3 +24,7 @@ package-lock.json
 
 # Word 임시 잠금 파일
 ~$*
+
+# Python 캐시
+__pycache__/
+*.pyc

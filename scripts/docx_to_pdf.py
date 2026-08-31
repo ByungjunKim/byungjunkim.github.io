@@ -30,6 +30,7 @@ from __future__ import annotations
 import argparse
 import glob
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -41,12 +42,31 @@ DEFAULT_GLOB = os.path.join(REPO_ROOT, "files", "ByungjunKim_CV_*.docx")
 # --------------------------------------------------------------------------- #
 # 대상 파일 찾기
 # --------------------------------------------------------------------------- #
+VERSION_RE = re.compile(r"ByungjunKim_CV_(\d{4})\.docx$", re.IGNORECASE)
+
+
+def _sort_key(path: str) -> tuple[int, float]:
+    """파일명 끝의 YYMM(예: 2608, 2609, 2701)을 1순위, 수정 시각을 2순위로."""
+    m = VERSION_RE.search(os.path.basename(path))
+    yymm = int(m.group(1)) if m else -1
+    return (yymm, os.path.getmtime(path))
+
+
 def default_targets() -> list[str]:
-    """files/ 에서 가장 최근 수정된 CV docx 하나를 고른다."""
+    """files/ 의 CV docx 중 파일명 YYMM이 가장 큰 것(= 최신 월 버전)을 고른다.
+
+    매달 ByungjunKim_CV_2609.docx 처럼 새 파일을 만들어도 자동으로 따라간다.
+    구버전이 files/ 에 남아 있고 나중에 수정되더라도 최신 월 버전이 우선한다.
+    (files/CV/ 로 옮긴 지난 버전은 글롭 대상이 아니라 애초에 걸리지 않는다.)
+    """
     cands = [p for p in glob.glob(DEFAULT_GLOB) if not os.path.basename(p).startswith("~$")]
     if not cands:
         return []
-    return [max(cands, key=os.path.getmtime)]
+    latest = max(cands, key=_sort_key)
+    others = [os.path.basename(p) for p in cands if p != latest]
+    print(f"대상: {os.path.basename(latest)}"
+          + (f"  (files/ 내 다른 후보: {', '.join(sorted(others))})" if others else ""))
+    return [latest]
 
 
 def pdf_path_for(docx: str, explicit_out: str | None) -> str:
