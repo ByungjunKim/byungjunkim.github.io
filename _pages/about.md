@@ -81,7 +81,7 @@ Skills and Techniques
 2. R
    * Statistical analysis
    * Data visualization
-3. Web Scraping/Crawling
+3. AI Agent Engineering
 4. Social Network Analysis (SNA)
    * Gephi, networkx, igraph, etc.
 5. Bibliometrics
