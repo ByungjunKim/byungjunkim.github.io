@@ -58,11 +58,9 @@ Lee, K. R., Kim, J. H., Jang, J., Yoon, J., Nan, D., Kim, Y., & **Kim, B.** (202
 
 Featured Grants & Projects
 ======
-(**PI**) “전통문화유산 애니메이션 활용을 위한 한국 전통문화유산 데이터 조사·정리 (Survey and Curation of Korean Traditional Cultural Heritage Data for Use in Animation)”, 문화유산기술연구소 (Technology Research Institute for Culture &amp; Heritage, TRIC), 총 연구비 1,200만원 (Total 12 million KRW), 10/2026 – 12/2026
-
 (**PI**) “&lt;고백(告白) 벤치마크&gt;: 식민지 남성 지식인 페르소나의 자기합리화 평가 데이터셋 구축 (The Gobaek (Confession) Benchmark: An Evaluation Dataset for Self-Rationalization of Colonial Male Intellectual Personas)”, 2026년 2학기 연구교육연계과제, 한국학중앙연구원 (The Academy of Korean Studies), 총 연구비 1,600만원 (Total 16 million KRW), 09/2026 – 02/2027, <a href="https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323250&bbsId=BBSMSTR_000000000082" target="_blank">Link</a>
 
-(**PI**) “한국 인문학 학술 지형도 구축을 위한 데이터 기반 연구동향 분석 체계 개발 (Developing a Data-Driven Research Trend Analysis Framework for Mapping the Scholarly Landscape of Korean Humanities)”, 한국연구원 (Research Institute for Korean Studies), 총 연구비 900만원 (Total 9 million KRW), 04/2026 – 09/2026
+(**PI**) “한국 인문학 학술 지형도 구축을 위한 데이터 기반 연구동향 분석 체계 개발 (Developing a Data-Driven Research Trend Analysis Framework for Mapping the Scholarly Landscape of Korean Humanities)”, 한국연구원 (Research Institute for Korean Studies), 총 연구비 900만원 (Total 9 million KRW), 04/2026 – 09/2026, <a href="https://www.riks.or.kr/categ/1402/50" target="_blank">Link</a>
 
 (**PI**) “문학적 횡단의 지식 그래프: 링크드 오픈 데이터를 활용한 유럽-한국 문학 번역사 모델링 (Knowledge Graphs of Literary Crossings: Modeling European–Korean Literary Translation History Using Linked Open Data)”, 한-독 R&D 네트워크 프로그램, 한국연구재단 (National Research Foundation of Korea), 총 연구비 2,000만원 (Total 20 million KRW), 03/2026 – 02/2027, <a href="https://www.nrf.re.kr/page/378?menuNo=378&searchSplitBizNo=77" target="_blank">Link</a>
 
